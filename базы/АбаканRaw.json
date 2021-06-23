@@ -1,0 +1,4835 @@
+[{ "url":"http://www.technoavia.ru",
+"callback":"qwerty"}
+,{ "url":"http://zarina.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.spm-shop.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.westland.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.gloria-jeans.ru",
+"callback":"qwerty"}
+,{ "url":"http://pelican-style.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ladno24.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.my-babymarket.ru",
+"callback":"qwerty"}
+,{ "url":"http://tot24.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.button-blue.com",
+"callback":"qwerty"}
+,{ "url":"http://sela.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.naroi.ru",
+"callback":"qwerty"}
+,{ "url":"http://kari.com",
+"callback":"qwerty"}
+,{ "url":"http://odevashkadeti.ru",
+"callback":"qwerty"}
+,{ "url":"http://magia-detstva.ru",
+"callback":"qwerty"}
+,{ "url":"http://сибальянс19.рф",
+"callback":"qwerty"}
+,{ "url":"http://playtoday.ru",
+"callback":"qwerty"}
+,{ "url":"http://acoolakids.ru",
+"callback":"qwerty"}
+,{ "url":"http://крохаимама.рф",
+"callback":"qwerty"}
+,{ "url":"http://detmir.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.minpk24.ru",
+"callback":"qwerty"}
+,{ "url":"http://альпака24.рф",
+"callback":"qwerty"}
+,{ "url":"http://diti19.ru",
+"callback":"qwerty"}
+,{ "url":"http://incity.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.westfalika.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.mongolia-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://johndouglasnord.ru",
+"callback":"qwerty"}
+,{ "url":"http://vezdehod19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ostin.com",
+"callback":"qwerty"}
+,{ "url":"http://viktor19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.бродяга24.рф",
+"callback":"qwerty"}
+,{ "url":"http://elf16.ru",
+"callback":"qwerty"}
+,{ "url":"http://optovik-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://benetton.com",
+"callback":"qwerty"}
+,{ "url":"http://mega-hand.ru",
+"callback":"qwerty"}
+,{ "url":"http://delstil.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kari.com",
+"callback":"qwerty"}
+,{ "url":"http://jenavi.ru",
+"callback":"qwerty"}
+,{ "url":"http://gos-opt.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.obuv.com",
+"callback":"qwerty"}
+,{ "url":"http://www.discover-school.com/",
+"callback":"qwerty"}
+,{ "url":"http://excellentschool.wix.com",
+"callback":"qwerty"}
+,{ "url":"http://extraclasses.ru",
+"callback":"qwerty"}
+,{ "url":"http://lingva19.ru",
+"callback":"qwerty"}
+,{ "url":"http://smileeng.ru",
+"callback":"qwerty"}
+,{ "url":"http://boston-club.ru",
+"callback":"qwerty"}
+,{ "url":"http://chdshi.rh.muzkult.ru",
+"callback":"qwerty"}
+,{ "url":"http://дши.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://корршкола.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.korschool.edusite.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernogorsk-internat.ru",
+"callback":"qwerty"}
+,{ "url":"http://minsgd.ru",
+"callback":"qwerty"}
+,{ "url":"http://shkola-dobra.ust-abakan.org",
+"callback":"qwerty"}
+,{ "url":"http://bistraya15.minusa-edu.ru",
+"callback":"qwerty"}
+,{ "url":"http://ntroichkoe12.minusa-edu.ru",
+"callback":"qwerty"}
+,{ "url":"http://minusa7.ru",
+"callback":"qwerty"}
+,{ "url":"http://solschool.ust-abakan.org",
+"callback":"qwerty"}
+,{ "url":"http://utascheba-school.ust-abakan.org",
+"callback":"qwerty"}
+,{ "url":"http://kaibaly.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://shkolasapogovo.ust-abakan.org",
+"callback":"qwerty"}
+,{ "url":"http://shkola.selivaniha.ru",
+"callback":"qwerty"}
+,{ "url":"http://raszvet-school.ust-abakan.org",
+"callback":"qwerty"}
+,{ "url":"http://podsineeschool.narod2.ru",
+"callback":"qwerty"}
+,{ "url":"http://zelenoe-school.ust-abakan.org",
+"callback":"qwerty"}
+,{ "url":"http://www.bsh-school.ru",
+"callback":"qwerty"}
+,{ "url":"http://школа1-минусинск.рф",
+"callback":"qwerty"}
+,{ "url":"http://school47.edusite.ru",
+"callback":"qwerty"}
+,{ "url":"http://chap.ust-abakan.org",
+"callback":"qwerty"}
+,{ "url":"http://school7rh.my1.ru",
+"callback":"qwerty"}
+,{ "url":"http://kalinino.ust-abakan.org",
+"callback":"qwerty"}
+,{ "url":"http://school3rx.ucoz.com",
+"callback":"qwerty"}
+,{ "url":"http://moysosh9.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://ilkschool.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://chermbou4.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://school2.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://chschool5.ucoz.com",
+"callback":"qwerty"}
+,{ "url":"http://shkola-dobra.ust-abakan.org | http://school-ua.ust-abakan.org",
+"callback":"qwerty"}
+,{ "url":"http://school5.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://school3.minusinsk.net",
+"callback":"qwerty"}
+,{ "url":"http://newland16.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://school4.minusinsk.net",
+"callback":"qwerty"}
+,{ "url":"http://school6.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://minusa-school12.ru",
+"callback":"qwerty"}
+,{ "url":"http://shkola9.my1.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernogorsk-school20.ru",
+"callback":"qwerty"}
+,{ "url":"http://школа7.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа27.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа3.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа17.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа2.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://черногорск-школа19.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа23.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа4.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://school16.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://школа5.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа9.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа18.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа19.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа20.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа11.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа30.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа10.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа26.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа24.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа1.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа22.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа12.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://школа25.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://detsad-rzd.ru",
+"callback":"qwerty"}
+,{ "url":"http://uniabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://Amakids.ru",
+"callback":"qwerty"}
+,{ "url":"http://cdo-raduga.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://mini-sadiki.com",
+"callback":"qwerty"}
+,{ "url":"http://abvgdeyka-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.smartykids.ru",
+"callback":"qwerty"}
+,{ "url":"http://cvetik19.ru",
+"callback":"qwerty"}
+,{ "url":"http://spec-pu19.ru",
+"callback":"qwerty"}
+,{ "url":"http://olimp19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.khsu.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.tcde.ru",
+"callback":"qwerty"}
+,{ "url":"http://nsuem.ru",
+"callback":"qwerty"}
+,{ "url":"http://kgau.ru",
+"callback":"qwerty"}
+,{ "url":"http://pu8-chernogorsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://spochmtt.ru/",
+"callback":"qwerty"}
+,{ "url":"http://technicum.info",
+"callback":"qwerty"}
+,{ "url":"http://mmt.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://пу-10.рф",
+"callback":"qwerty"}
+,{ "url":"http://gounpopu6.ru",
+"callback":"qwerty"}
+,{ "url":"http://tehnikum19.ru",
+"callback":"qwerty"}
+,{ "url":"http://охранатруда19.рф",
+"callback":"qwerty"}
+,{ "url":"http://ivisot.narod.ru",
+"callback":"qwerty"}
+,{ "url":"http://technicum.info/index.php/perepodgotovka",
+"callback":"qwerty"}
+,{ "url":"http://noucdo.ru",
+"callback":"qwerty"}
+,{ "url":"http://ipk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://альфаспорт.рф",
+"callback":"qwerty"}
+,{ "url":"http://учебныйцентр19.рф",
+"callback":"qwerty"}
+,{ "url":"http://абакан.школаквентин.рф",
+"callback":"qwerty"}
+,{ "url":"http://zakaz19.tiu.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sibznanie.ru",
+"callback":"qwerty"}
+,{ "url":"http://turbyuro-azimut.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.torgpalata.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.imperiaavto19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sorrano.wixsite.com/rus-center",
+"callback":"qwerty"}
+,{ "url":"http://kentavr-s.ru",
+"callback":"qwerty"}
+,{ "url":"http://cenicen.wixsite.com/kbaht-plus",
+"callback":"qwerty"}
+,{ "url":"http://www.vosafety.ru",
+"callback":"qwerty"}
+,{ "url":"http://уккзнание.рф",
+"callback":"qwerty"}
+,{ "url":"http://centrprof19.ru",
+"callback":"qwerty"}
+,{ "url":"http://vosafety.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rucpk.org",
+"callback":"qwerty"}
+,{ "url":"http://psg19.ru | http://prof.psg19.ru",
+"callback":"qwerty"}
+,{ "url":"http://обучение-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.hcot.ru",
+"callback":"qwerty"}
+,{ "url":"http://кцпр.рф",
+"callback":"qwerty"}
+,{ "url":"http://estetika19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.bigbenlc.ru",
+"callback":"qwerty"}
+,{ "url":"http://vera.spb.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.okey-school.ru",
+"callback":"qwerty"}
+,{ "url":"http://artstarabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://haknii.ru",
+"callback":"qwerty"}
+,{ "url":"http://ch-licey.ru",
+"callback":"qwerty"}
+,{ "url":"http://licey7.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.viaz-mir.ru | http://www.livemaster.ru/viaz-mir",
+"callback":"qwerty"}
+,{ "url":"http://abakan.kiber-one.com/",
+"callback":"qwerty"}
+,{ "url":"http://aoe.su",
+"callback":"qwerty"}
+,{ "url":"http://mkki.ru",
+"callback":"qwerty"}
+,{ "url":"http://minuspk.ru",
+"callback":"qwerty"}
+,{ "url":"http://cxtex.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://hkptes.ru",
+"callback":"qwerty"}
+,{ "url":"http://khpk.ru",
+"callback":"qwerty"}
+,{ "url":"http://таксияндекс.рус",
+"callback":"qwerty"}
+,{ "url":"http://юстициа.рф",
+"callback":"qwerty"}
+,{ "url":"http://работа-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.kursdela.abakn.ru",
+"callback":"qwerty"}
+,{ "url":"http://khti.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kemtipp.ru",
+"callback":"qwerty"}
+,{ "url":"http://art-school.gbu.su",
+"callback":"qwerty"}
+,{ "url":"http://школа-каратанова.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://ds-zelenoe.ust-abakan.org",
+"callback":"qwerty"}
+,{ "url":"http://ds1959.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://belochka.bdu.su",
+"callback":"qwerty"}
+,{ "url":"http://raduga.my1.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernrodnik.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://kolosok.bdu.su",
+"callback":"qwerty"}
+,{ "url":"http://rodnichok.bdu.su",
+"callback":"qwerty"}
+,{ "url":"http://mbdou-belo4ka.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://dsryabinka.ru",
+"callback":"qwerty"}
+,{ "url":"http://ds-alenka.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.zolotodou.ru",
+"callback":"qwerty"}
+,{ "url":"http://ds29.bdu.su",
+"callback":"qwerty"}
+,{ "url":"http://zhuravushka19.ru",
+"callback":"qwerty"}
+,{ "url":"http://svetlyachokdetsad.narod.ru",
+"callback":"qwerty"}
+,{ "url":"http://ulibka19.ru",
+"callback":"qwerty"}
+,{ "url":"http://detskiisadromaschka.narod.ru",
+"callback":"qwerty"}
+,{ "url":"http://ds-gnezdishko.ru",
+"callback":"qwerty"}
+,{ "url":"http://detsadkalinka.ru",
+"callback":"qwerty"}
+,{ "url":"http://sadko.bdu.su",
+"callback":"qwerty"}
+,{ "url":"http://raduga-ds.ru",
+"callback":"qwerty"}
+,{ "url":"http://ds-rucheek.ru",
+"callback":"qwerty"}
+,{ "url":"http://rosinka19.ru",
+"callback":"qwerty"}
+,{ "url":"http://детские-сады.абакан.xn--p1ai/podsnezhnik/info",
+"callback":"qwerty"}
+,{ "url":"http://umka.bgu.su",
+"callback":"qwerty"}
+,{ "url":"http://rosinka.bdu.su",
+"callback":"qwerty"}
+,{ "url":"http://детские-сады.абакан.xn--p1ai/zolotoyklyuchik/info.html",
+"callback":"qwerty"}
+,{ "url":"http://детские-сады.абакан.xn--p1ai/ivushka/2046.html",
+"callback":"qwerty"}
+,{ "url":"http://детские-сады.абакан.xn--p1ai/berezka/2173.html",
+"callback":"qwerty"}
+,{ "url":"http://детские-сады.абакан.xn--p1ai/elochka/info.html",
+"callback":"qwerty"}
+,{ "url":"http://детские-сады.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.mschool.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://дмш2.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://дмш-самрина.рф",
+"callback":"qwerty"}
+,{ "url":"http://дмш.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.gymnasiumstar.ru",
+"callback":"qwerty"}
+,{ "url":"http://gimnazist1.ru",
+"callback":"qwerty"}
+,{ "url":"http://гимназия.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://akadrovik.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.innovatemylife.com",
+"callback":"qwerty"}
+,{ "url":"http://нашитренинги.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.dpo19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.siu.ranepa.ru/fzdo",
+"callback":"qwerty"}
+,{ "url":"http://сга-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://autoschooldvigenie.ru",
+"callback":"qwerty"}
+,{ "url":"http://poputi19.ru",
+"callback":"qwerty"}
+,{ "url":"http://автошкола-упк.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.forsaj19.ru",
+"callback":"qwerty"}
+,{ "url":"http://voa.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.autoinline.com",
+"callback":"qwerty"}
+,{ "url":"http://uab19-dosaaf.ru",
+"callback":"qwerty"}
+,{ "url":"http://cpv24.ru",
+"callback":"qwerty"}
+,{ "url":"http://avtostandart19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.khpk.ru/TriningCentre/",
+"callback":"qwerty"}
+,{ "url":"http://avto-school.my1.ru",
+"callback":"qwerty"}
+,{ "url":"http://dvnet.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.dosaafcher19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.autoschool-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://абаканшколадосааф.рф",
+"callback":"qwerty"}
+,{ "url":"http://ukk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakanprava.ru",
+"callback":"qwerty"}
+,{ "url":"http://magistral19.ru",
+"callback":"qwerty"}
+,{ "url":"http://autoshkola-zarulem.ru",
+"callback":"qwerty"}
+,{ "url":"http://uckomlink.ru",
+"callback":"qwerty"}
+,{ "url":"http://prosvet19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.abakan.irbispro.ru",
+"callback":"qwerty"}
+,{ "url":"http://k-mouse.ru",
+"callback":"qwerty"}
+,{ "url":"http://mg19.ru",
+"callback":"qwerty"}
+,{ "url":"http://oooaver.wixsite.com/oborudovanie-abakan",
+"callback":"qwerty"}
+,{ "url":"http://torg19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sveter19.ru",
+"callback":"qwerty"}
+,{ "url":"http://krepmarket.ru",
+"callback":"qwerty"}
+,{ "url":"http://ооо-полином.рф",
+"callback":"qwerty"}
+,{ "url":"http://ооо-полином.рф | http://ооо-полином.рф",
+"callback":"qwerty"}
+,{ "url":"http://енисейпром.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.kaskadtools.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ermak19.ru",
+"callback":"qwerty"}
+,{ "url":"http://rvd19.ru",
+"callback":"qwerty"}
+,{ "url":"http://vsevprokat19.ru",
+"callback":"qwerty"}
+,{ "url":"http://прометей-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://энергосбережение19.рф",
+"callback":"qwerty"}
+,{ "url":"http://duminus24.ru",
+"callback":"qwerty"}
+,{ "url":"http://ctp19.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.teplo-ot-pola.ru | http://ссц19.рф",
+"callback":"qwerty"}
+,{ "url":"http://ламинат19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.nikmann.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.pso-gk.com",
+"callback":"qwerty"}
+,{ "url":"http://7kt.ru",
+"callback":"qwerty"}
+,{ "url":"http://вредные-привычки.рф",
+"callback":"qwerty"}
+,{ "url":"http://krascasing.ru",
+"callback":"qwerty"}
+,{ "url":"http://expert-groups.ru",
+"callback":"qwerty"}
+,{ "url":"http://inter-sto.ru",
+"callback":"qwerty"}
+,{ "url":"http://autobalance.biz",
+"callback":"qwerty"}
+,{ "url":"http://entuziast19.ru",
+"callback":"qwerty"}
+,{ "url":"http://tm-elektro19.ru",
+"callback":"qwerty"}
+,{ "url":"http://resanta.ru | http://vihr.su | http://Huter.su",
+"callback":"qwerty"}
+,{ "url":"http://воротаград.рф",
+"callback":"qwerty"}
+,{ "url":"http://kraski19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kraski19.ru",
+"callback":"qwerty"}
+,{ "url":"http://краска-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://trubeckoy.net",
+"callback":"qwerty"}
+,{ "url":"http://heiztechnik.ru | http://ssk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://teplo19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.teplodar.ru | http://novmk.ru | http://www.termokraft.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.abakanholod.ru",
+"callback":"qwerty"}
+,{ "url":"http://компания-климат.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.aztotorg.ru",
+"callback":"qwerty"}
+,{ "url":"http://a-tent.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.tojiro.ru",
+"callback":"qwerty"}
+,{ "url":"http://zatochka-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://ac-techno.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.pilorama1.org | http://www.woodtec.com.ru | http://abakanwt.ru",
+"callback":"qwerty"}
+,{ "url":"http://ooo-gsho.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.promoskr.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.avgustmoto.ru",
+"callback":"qwerty"}
+,{ "url":"http://irbis19.ru",
+"callback":"qwerty"}
+,{ "url":"http://24td.ru | http://www.t-d.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.climat-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.klimat-profil19.ru",
+"callback":"qwerty"}
+,{ "url":"http://svent.ru",
+"callback":"qwerty"}
+,{ "url":"http://aklimat19.ru",
+"callback":"qwerty"}
+,{ "url":"http://технология-климата19.рф",
+"callback":"qwerty"}
+,{ "url":"http://sfera-pluss.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rusklimat-sayany.ru",
+"callback":"qwerty"}
+,{ "url":"http://бриз19.рф",
+"callback":"qwerty"}
+,{ "url":"http://klimat19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.klimatgrupp.ru",
+"callback":"qwerty"}
+,{ "url":"http://xvend.ru",
+"callback":"qwerty"}
+,{ "url":"http://gsk.tiu.ru",
+"callback":"qwerty"}
+,{ "url":"http://домколотушкина.рф",
+"callback":"qwerty"}
+,{ "url":"http://ssmc.su",
+"callback":"qwerty"}
+,{ "url":"http://www.abakana.net | http://инструмент19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.instrument.ru",
+"callback":"qwerty"}
+,{ "url":"http://линии-тока.рф",
+"callback":"qwerty"}
+,{ "url":"http://azto.ru",
+"callback":"qwerty"}
+,{ "url":"http://aprp.tiu.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.specstroy19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ros-corp.ru",
+"callback":"qwerty"}
+,{ "url":"http://катяглок.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.takzdorovo.ru",
+"callback":"qwerty"}
+,{ "url":"http://aidskrsn.ru",
+"callback":"qwerty"}
+,{ "url":"http://aids19.ru",
+"callback":"qwerty"}
+,{ "url":"http://таежныйзнахарь.рф",
+"callback":"qwerty"}
+,{ "url":"http://uabakancrb.mz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://m-sr.ru",
+"callback":"qwerty"}
+,{ "url":"http://уролог-дейнеко.рф",
+"callback":"qwerty"}
+,{ "url":"http://psixoterapevt.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.polygraph-basis.com",
+"callback":"qwerty"}
+,{ "url":"http://психолог-в-абакане.рф",
+"callback":"qwerty"}
+,{ "url":"http://oftalmolog.mz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://listerra.wixsite.com/doktor",
+"callback":"qwerty"}
+,{ "url":"http://evgeniivlev.pro",
+"callback":"qwerty"}
+,{ "url":"http://школьник19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.neposeda19.com",
+"callback":"qwerty"}
+,{ "url":"http://fitshape.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.tattooluckyseven19.com",
+"callback":"qwerty"}
+,{ "url":"http://rusich-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://contact-kr.ru",
+"callback":"qwerty"}
+,{ "url":"http://stoma-ok.ru",
+"callback":"qwerty"}
+,{ "url":"http://gem-stom.ru",
+"callback":"qwerty"}
+,{ "url":"http://мпстоматолог.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://vitadentm.ru",
+"callback":"qwerty"}
+,{ "url":"http://эстет24.рф",
+"callback":"qwerty"}
+,{ "url":"http://zubki.abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://клиника-райхеля.рф",
+"callback":"qwerty"}
+,{ "url":"http://vivap-dent.ru",
+"callback":"qwerty"}
+,{ "url":"http://импланты19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.avident.ru",
+"callback":"qwerty"}
+,{ "url":"http://orthosolo.ru",
+"callback":"qwerty"}
+,{ "url":"http://sayany-stoma.ru",
+"callback":"qwerty"}
+,{ "url":"http://денталь-минусинск.рф",
+"callback":"qwerty"}
+,{ "url":"http://dentplyus.com.ru",
+"callback":"qwerty"}
+,{ "url":"http://стомаэлита.рф",
+"callback":"qwerty"}
+,{ "url":"http://dental-service19.ru",
+"callback":"qwerty"}
+,{ "url":"http://klassik-dent.com",
+"callback":"qwerty"}
+,{ "url":"http://премиум-дент.рф",
+"callback":"qwerty"}
+,{ "url":"http://agsp.mz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://minstom.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://chstomat.mz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://абакан.вподгузниках.рф",
+"callback":"qwerty"}
+,{ "url":"http://abakan.sol-plus.ru",
+"callback":"qwerty"}
+,{ "url":"http://sanepid.khakasia.ru",
+"callback":"qwerty"}
+,{ "url":"http://analitik-expert19.ru",
+"callback":"qwerty"}
+,{ "url":"http://analytic19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ozero-tagarskoe.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sun-tes.ru",
+"callback":"qwerty"}
+,{ "url":"http://med.minusinsk.info",
+"callback":"qwerty"}
+,{ "url":"http://мсч.19.мвд.рф",
+"callback":"qwerty"}
+,{ "url":"http://центрлебедя.рф",
+"callback":"qwerty"}
+,{ "url":"http://дрц-виктория.рф",
+"callback":"qwerty"}
+,{ "url":"http://мук.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.biointermed.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kluch19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.akimov-sn.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.zapletemkrasoty.ru",
+"callback":"qwerty"}
+,{ "url":"http://fitfiesta.ru",
+"callback":"qwerty"}
+,{ "url":"http://kleopatra24.ru",
+"callback":"qwerty"}
+,{ "url":"http://glebortoped.ru",
+"callback":"qwerty"}
+,{ "url":"http://ortopedplus.com",
+"callback":"qwerty"}
+,{ "url":"http://optika-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://гироскутер19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.boxberry.ru",
+"callback":"qwerty"}
+,{ "url":"http://ExMail.ws",
+"callback":"qwerty"}
+,{ "url":"http://www.pochta.ru",
+"callback":"qwerty"}
+,{ "url":"http://dpd.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ponyexpress.ru",
+"callback":"qwerty"}
+,{ "url":"http://cse.ru",
+"callback":"qwerty"}
+,{ "url":"http://krasmolnya.ru",
+"callback":"qwerty"}
+,{ "url":"http://straj2.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.loglab.ru",
+"callback":"qwerty"}
+,{ "url":"http://троллейбус-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://belazservice.ru",
+"callback":"qwerty"}
+,{ "url":"http://znak19.ru",
+"callback":"qwerty"}
+,{ "url":"http://сельхозтехника-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.aomz-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://aerolodka19.ru",
+"callback":"qwerty"}
+,{ "url":"http://vodnik19.ru",
+"callback":"qwerty"}
+,{ "url":"http://катер-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://citycar19.ru",
+"callback":"qwerty"}
+,{ "url":"http://limuzin19.ru",
+"callback":"qwerty"}
+,{ "url":"http://dream-motors.su/rentacar",
+"callback":"qwerty"}
+,{ "url":"http://хамер19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.gautos.ru",
+"callback":"qwerty"}
+,{ "url":"http://19prokatauto.ru",
+"callback":"qwerty"}
+,{ "url":"http://автосалон19.xn--p1ai/",
+"callback":"qwerty"}
+,{ "url":"http://честнаяцена.рф",
+"callback":"qwerty"}
+,{ "url":"http://avtomir19.ru | http://chevrolet-niva.ru",
+"callback":"qwerty"}
+,{ "url":"http://grandauto19.ru",
+"callback":"qwerty"}
+,{ "url":"http://aabakan.ru | http://prokatauto19.ru",
+"callback":"qwerty"}
+,{ "url":"http://autohouse19.mya5.ru | http://ah19.ru | http://autohouse19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.brandtpolaris.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.cn-gruz.ru",
+"callback":"qwerty"}
+,{ "url":"http://g-logistic.ru",
+"callback":"qwerty"}
+,{ "url":"http://ткбайкал.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.baikalsr.ru",
+"callback":"qwerty"}
+,{ "url":"http://rateksib.ru",
+"callback":"qwerty"}
+,{ "url":"http://точкаопоры19.рф",
+"callback":"qwerty"}
+,{ "url":"http://st-arenda19.ru",
+"callback":"qwerty"}
+,{ "url":"http://автовышка19.рф",
+"callback":"qwerty"}
+,{ "url":"http://спецтехника-абакана.рф",
+"callback":"qwerty"}
+,{ "url":"http://perevozka-rf.ru",
+"callback":"qwerty"}
+,{ "url":"http://specteh19.ru",
+"callback":"qwerty"}
+,{ "url":"http://taxsee.ru",
+"callback":"qwerty"}
+,{ "url":"http://gett.com/ru",
+"callback":"qwerty"}
+,{ "url":"http://taxi.yandex.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.tornado19.ru",
+"callback":"qwerty"}
+,{ "url":"http://семенов19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.vspt.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rzd.ru",
+"callback":"qwerty"}
+,{ "url":"http://trans-vektor.ru",
+"callback":"qwerty"}
+,{ "url":"http://wayg.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.wayg.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.tesgroup.ru",
+"callback":"qwerty"}
+,{ "url":"http://atk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://grlight.ru",
+"callback":"qwerty"}
+,{ "url":"http://at19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sib-travel.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.jde.ru",
+"callback":"qwerty"}
+,{ "url":"http://imperiaavto19.ru",
+"callback":"qwerty"}
+,{ "url":"http://euroset.ru",
+"callback":"qwerty"}
+,{ "url":"http://sayan-avia.ru",
+"callback":"qwerty"}
+,{ "url":"http://poezd.ru",
+"callback":"qwerty"}
+,{ "url":"http://vael.ru",
+"callback":"qwerty"}
+,{ "url":"http://rzd.ru",
+"callback":"qwerty"}
+,{ "url":"http://rmrail.ru/structure/abakanvagonmash/",
+"callback":"qwerty"}
+,{ "url":"http://taxi-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://грузчики19.рф",
+"callback":"qwerty"}
+,{ "url":"http://авторейс19.рф",
+"callback":"qwerty"}
+,{ "url":"http://itc19.ru",
+"callback":"qwerty"}
+,{ "url":"http://taxipoehali.ru/app",
+"callback":"qwerty"}
+,{ "url":"http://борус-авто.рф",
+"callback":"qwerty"}
+,{ "url":"http://vezet19.ru",
+"callback":"qwerty"}
+,{ "url":"http://glav-dostavka.ru",
+"callback":"qwerty"}
+,{ "url":"http://rtk-bazis.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ab-ex.ru",
+"callback":"qwerty"}
+,{ "url":"http://log-e.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.taximaxim.com | http://taximaximapp.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.aero",
+"callback":"qwerty"}
+,{ "url":"http://www.centrocenki19.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan-ocenka.ru/",
+"callback":"qwerty"}
+,{ "url":"http://www.ocenka-abk.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.nezexpert.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ak1967.ru | http://bustraffic.ru",
+"callback":"qwerty"}
+,{ "url":"http://krascavs.ru",
+"callback":"qwerty"}
+,{ "url":"http://sayanaero.ru",
+"callback":"qwerty"}
+,{ "url":"http://nrg-tk.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakanair.ru",
+"callback":"qwerty"}
+,{ "url":"http://expressauto.ru",
+"callback":"qwerty"}
+,{ "url":"http://cccb.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.dhl.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.spsr.ru",
+"callback":"qwerty"}
+,{ "url":"http://cdek.ru",
+"callback":"qwerty"}
+,{ "url":"http://pecom.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.dellin.ru/?utm_source=2gismap&utm_medium=cpc&utm_campaign=2gis",
+"callback":"qwerty"}
+,{ "url":"http://ооосибюгстрой.рф",
+"callback":"qwerty"}
+,{ "url":"http://скади.рф",
+"callback":"qwerty"}
+,{ "url":"http://ksk-ludvig.ru",
+"callback":"qwerty"}
+,{ "url":"http://rfgsrh.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.bugaeva.com",
+"callback":"qwerty"}
+,{ "url":"http://gaztrans.org",
+"callback":"qwerty"}
+,{ "url":"http://vlastainvest.ru",
+"callback":"qwerty"}
+,{ "url":"http://uks-zhilstroy.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.tsst.su",
+"callback":"qwerty"}
+,{ "url":"http://sibazs.com",
+"callback":"qwerty"}
+,{ "url":"http://cozy-house19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sib-dom.su",
+"callback":"qwerty"}
+,{ "url":"http://monolit19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.zavidnoe1.ru",
+"callback":"qwerty"}
+,{ "url":"http://dver19.ru",
+"callback":"qwerty"}
+,{ "url":"http://евростиль-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.remstroyservice19.ru",
+"callback":"qwerty"}
+,{ "url":"http://evro-block.com",
+"callback":"qwerty"}
+,{ "url":"http://remont19.com",
+"callback":"qwerty"}
+,{ "url":"http://profbrus19.ru",
+"callback":"qwerty"}
+,{ "url":"http://a-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan-stroy.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.termobrus24.ru",
+"callback":"qwerty"}
+,{ "url":"http://mebelerno.ru | http://uralbrus19.ru",
+"callback":"qwerty"}
+,{ "url":"http://балконы-лоджии-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://krez19.ru",
+"callback":"qwerty"}
+,{ "url":"http://mechkolonna8.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.pmikm.ru",
+"callback":"qwerty"}
+,{ "url":"http://drsu10.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ppfinsurance.ru",
+"callback":"qwerty"}
+,{ "url":"http://zaim-garant.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.7zaim.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.финансинвест.com",
+"callback":"qwerty"}
+,{ "url":"http://delo.ru",
+"callback":"qwerty"}
+,{ "url":"http://gtdel.com",
+"callback":"qwerty"}
+,{ "url":"http://www.sayanles.com",
+"callback":"qwerty"}
+,{ "url":"http://trend-mark.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.torex.ru",
+"callback":"qwerty"}
+,{ "url":"http://лагерьенисей.xn--p1ai/",
+"callback":"qwerty"}
+,{ "url":"http://саянскиймясокомбинат.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.spbume.ru/ru/page/33/",
+"callback":"qwerty"}
+,{ "url":"http://www.vseinstrumenti.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.voshod-center.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.novex-trade.ru",
+"callback":"qwerty"}
+,{ "url":"http://текстиль-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://ярус19.рф",
+"callback":"qwerty"}
+,{ "url":"http://abakus-center.ru/",
+"callback":"qwerty"}
+,{ "url":"http://lukoil-shop.ru",
+"callback":"qwerty"}
+,{ "url":"http://bellissima-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://spa19.ru",
+"callback":"qwerty"}
+,{ "url":"http://спецтехника-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://avarkom19.ru",
+"callback":"qwerty"}
+,{ "url":"http://gtservice19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.спецтехника-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.ast-prof.com",
+"callback":"qwerty"}
+,{ "url":"http://abakan.evakuatorok.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.medved-akkum.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.autoreal19.ru",
+"callback":"qwerty"}
+,{ "url":"http://avtomarket19.ru",
+"callback":"qwerty"}
+,{ "url":"http://snpmarket.com",
+"callback":"qwerty"}
+,{ "url":"http://www.technopoint.ru",
+"callback":"qwerty"}
+,{ "url":"http://zamena.org",
+"callback":"qwerty"}
+,{ "url":"http://epicentr-shop.ru",
+"callback":"qwerty"}
+,{ "url":"http://exist.ru",
+"callback":"qwerty"}
+,{ "url":"http://galamart.ru",
+"callback":"qwerty"}
+,{ "url":"http://amtari.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.isnext.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ford-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://otmamie.ru",
+"callback":"qwerty"}
+,{ "url":"http://vin19.ru",
+"callback":"qwerty"}
+,{ "url":"http://lada-asia.ru",
+"callback":"qwerty"}
+,{ "url":"http://autoreal19.ru",
+"callback":"qwerty"}
+,{ "url":"http://kia-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.akgs.market",
+"callback":"qwerty"}
+,{ "url":"http://vw-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://reno-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.avtomotiv.ru",
+"callback":"qwerty"}
+,{ "url":"http://baza.drom.ru/user/tokio19/",
+"callback":"qwerty"}
+,{ "url":"http://euroland.top",
+"callback":"qwerty"}
+,{ "url":"http://www.samurai-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://pricep19.ru",
+"callback":"qwerty"}
+,{ "url":"http://19gbo.ru",
+"callback":"qwerty"}
+,{ "url":"http://autoray19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.avtodekor19rus.ru | http://face-car.ru/",
+"callback":"qwerty"}
+,{ "url":"http://www.autoprilavok.ru",
+"callback":"qwerty"}
+,{ "url":"http://avtohak.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.autotex19.ru",
+"callback":"qwerty"}
+,{ "url":"http://renault-sialavto.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.2stick.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.skoda.medved-ug.ru",
+"callback":"qwerty"}
+,{ "url":"http://mitsubishi-minusinsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.laska.tv",
+"callback":"qwerty"}
+,{ "url":"http://паритет-сибирь19.рф",
+"callback":"qwerty"}
+,{ "url":"http://laser4444.wix.com/stekloavtominusinsk",
+"callback":"qwerty"}
+,{ "url":"http://движок24.рф",
+"callback":"qwerty"}
+,{ "url":"http://abakan.explorer-russia.ru",
+"callback":"qwerty"}
+,{ "url":"http://dak19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kamaz124.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.autotrade.su",
+"callback":"qwerty"}
+,{ "url":"http://autoresurs-ttc.ru",
+"callback":"qwerty"}
+,{ "url":"http://volvotruck24.ru",
+"callback":"qwerty"}
+,{ "url":"http://вираж19.рф",
+"callback":"qwerty"}
+,{ "url":"http://abakan19.azgaz.ru | http://uaz-abakanavtogaz.ru",
+"callback":"qwerty"}
+,{ "url":"http://шиныфедерал.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.kamss.ru | http://www.kamss-kamaz.ru",
+"callback":"qwerty"}
+,{ "url":"http://virazh19.ru",
+"callback":"qwerty"}
+,{ "url":"http://patriot19.ru",
+"callback":"qwerty"}
+,{ "url":"http://autoremex.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sayanscan.ru",
+"callback":"qwerty"}
+,{ "url":"http://24atlant.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.autosteklo.ru",
+"callback":"qwerty"}
+,{ "url":"http://auto3n.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.lada-asia.ru",
+"callback":"qwerty"}
+,{ "url":"http://росзапчасти.рф",
+"callback":"qwerty"}
+,{ "url":"http://japan-trucks.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.1001z.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.24hino.ru",
+"callback":"qwerty"}
+,{ "url":"http://spk-kem.ru",
+"callback":"qwerty"}
+,{ "url":"http://autorezerv-minusinsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://amx24.ru",
+"callback":"qwerty"}
+,{ "url":"http://sibspec19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.yulsun.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.autopolka.ru",
+"callback":"qwerty"}
+,{ "url":"http://24hino.ru | http://19ms.ru",
+"callback":"qwerty"}
+,{ "url":"http://torens-auto.com",
+"callback":"qwerty"}
+,{ "url":"http://carex.su",
+"callback":"qwerty"}
+,{ "url":"http://19avers.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.spoloborota.ru",
+"callback":"qwerty"}
+,{ "url":"http://sakura-motors.ru",
+"callback":"qwerty"}
+,{ "url":"http://mechanika-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://komponent-m.ru",
+"callback":"qwerty"}
+,{ "url":"http://vezet.ds19.ru",
+"callback":"qwerty"}
+,{ "url":"http://eniseycto.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.rossko.ru",
+"callback":"qwerty"}
+,{ "url":"http://autoteams.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.zr19.ru",
+"callback":"qwerty"}
+,{ "url":"http://востокавто.ком.рф",
+"callback":"qwerty"}
+,{ "url":"http://124klakson.ru",
+"callback":"qwerty"}
+,{ "url":"http://avtopikom.ru",
+"callback":"qwerty"}
+,{ "url":"http://emex.ru",
+"callback":"qwerty"}
+,{ "url":"http://top-razbor.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.emex.ru",
+"callback":"qwerty"}
+,{ "url":"http://автомастер19.рф",
+"callback":"qwerty"}
+,{ "url":"http://акм24.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.19auto.ru",
+"callback":"qwerty"}
+,{ "url":"http://автозапчасти-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://avtogorod19.ru",
+"callback":"qwerty"}
+,{ "url":"http://era-auto.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.uniqom.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.bmw-elitavto.ru",
+"callback":"qwerty"}
+,{ "url":"http://cardan19.ru",
+"callback":"qwerty"}
+,{ "url":"http://autostrada19.ru/",
+"callback":"qwerty"}
+,{ "url":"http://www.gpi24.ru",
+"callback":"qwerty"}
+,{ "url":"http://avtozapchasti-abakan.ru | http://автозапчасти-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://abakan.ambcomplekt.com",
+"callback":"qwerty"}
+,{ "url":"http://autopolka.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.19.clan.su",
+"callback":"qwerty"}
+,{ "url":"http://www.vekabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://tehzvuk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.porshen-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://автостраж-рх.рф",
+"callback":"qwerty"}
+,{ "url":"http://str-k.ru | http://технологическийсервис.рф",
+"callback":"qwerty"}
+,{ "url":"http://шинндвор.рф",
+"callback":"qwerty"}
+,{ "url":"http://tdferm.ru",
+"callback":"qwerty"}
+,{ "url":"http://motolife19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.liquimoly.ru | http://lm19.ru",
+"callback":"qwerty"}
+,{ "url":"http://tkabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://sumitec.ru",
+"callback":"qwerty"}
+,{ "url":"http://автошины-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://sibtraktor.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.tmbk.ru",
+"callback":"qwerty"}
+,{ "url":"http://vost-tech.ru",
+"callback":"qwerty"}
+,{ "url":"http://henkel.color-auto24.ru",
+"callback":"qwerty"}
+,{ "url":"http://stk24.ru",
+"callback":"qwerty"}
+,{ "url":"http://lukoil-masla.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.wp-motors.ru",
+"callback":"qwerty"}
+,{ "url":"http://kolesa19.ru",
+"callback":"qwerty"}
+,{ "url":"http://plan-t.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.koch-sib.ru",
+"callback":"qwerty"}
+,{ "url":"http://автошарм19.рф",
+"callback":"qwerty"}
+,{ "url":"http://pricep-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.spoloborota.ru | http://bitstop.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.stotepsey.ru",
+"callback":"qwerty"}
+,{ "url":"http://вечный-двигатель.com",
+"callback":"qwerty"}
+,{ "url":"http://stosokol.ru",
+"callback":"qwerty"}
+,{ "url":"http://hyundai-minusinsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://estakada-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://bus19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ex-centrik.org",
+"callback":"qwerty"}
+,{ "url":"http://абакан-авторемонт.рф",
+"callback":"qwerty"}
+,{ "url":"http://remzona19.ru",
+"callback":"qwerty"}
+,{ "url":"http://12v-minusinsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://гараж19.рф",
+"callback":"qwerty"}
+,{ "url":"http://tchkauto-chip.ru/",
+"callback":"qwerty"}
+,{ "url":"http://adk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://avtostekla19.business.site",
+"callback":"qwerty"}
+,{ "url":"http://bitstop.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.koloristika.org",
+"callback":"qwerty"}
+,{ "url":"http://europroject.ru",
+"callback":"qwerty"}
+,{ "url":"http://element-sc.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sseastyle.ru",
+"callback":"qwerty"}
+,{ "url":"http://autoeffect-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://gazoilmaster.ru",
+"callback":"qwerty"}
+,{ "url":"http://gastec19.ru",
+"callback":"qwerty"}
+,{ "url":"http://aura.pro",
+"callback":"qwerty"}
+,{ "url":"http://www.gpnbonus.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rosneft.ru",
+"callback":"qwerty"}
+,{ "url":"http://perekrestokoil.ru",
+"callback":"qwerty"}
+,{ "url":"http://gk-gazoil.ru",
+"callback":"qwerty"}
+,{ "url":"http://knp.krsn.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.everest19.ru",
+"callback":"qwerty"}
+,{ "url":"http://анп24.рф",
+"callback":"qwerty"}
+,{ "url":"http://business.google.com/website/neftebaza/",
+"callback":"qwerty"}
+,{ "url":"http://www.1taifun.ru",
+"callback":"qwerty"}
+,{ "url":"http://агроснаб19.рф",
+"callback":"qwerty"}
+,{ "url":"http://liugong.pro | http://shantui-bsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.enisey-m.ru",
+"callback":"qwerty"}
+,{ "url":"http://rvd124.ru",
+"callback":"qwerty"}
+,{ "url":"http://t-s-c.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.amps.su",
+"callback":"qwerty"}
+,{ "url":"http://rtts19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sss19.ru | http://сибспецсервис19.рф",
+"callback":"qwerty"}
+,{ "url":"http://hitmachinery.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.tahograf-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://carvizor.ru",
+"callback":"qwerty"}
+,{ "url":"http://автоподбор19.рф",
+"callback":"qwerty"}
+,{ "url":"http://spektr19.ru",
+"callback":"qwerty"}
+,{ "url":"http://polavto.ru",
+"callback":"qwerty"}
+,{ "url":"http://автокондиционер-сервис.рф",
+"callback":"qwerty"}
+,{ "url":"http://taifun19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.astro19.com",
+"callback":"qwerty"}
+,{ "url":"http://autodata.ru/training/master/",
+"callback":"qwerty"}
+,{ "url":"http://kranchernogorsk.fo.ru",
+"callback":"qwerty"}
+,{ "url":"http://погрузчик-сервис.рф",
+"callback":"qwerty"}
+,{ "url":"http://327060.wix.com/azs-servis",
+"callback":"qwerty"}
+,{ "url":"http://navi-ts.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.atol24.ru",
+"callback":"qwerty"}
+,{ "url":"http://gygol.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.fart19.ru",
+"callback":"qwerty"}
+,{ "url":"http://glonass19.com",
+"callback":"qwerty"}
+,{ "url":"http://тахограф-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.autoatelje.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.abakanotogrev.com",
+"callback":"qwerty"}
+,{ "url":"http://avtoshina24.ru",
+"callback":"qwerty"}
+,{ "url":"http://oltacom.ru",
+"callback":"qwerty"}
+,{ "url":"http://a1tk.ru",
+"callback":"qwerty"}
+,{ "url":"http://shin-shilla.com",
+"callback":"qwerty"}
+,{ "url":"http://sibirkoleso.ru",
+"callback":"qwerty"}
+,{ "url":"http://автошинаплюс.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.protektor24.ru",
+"callback":"qwerty"}
+,{ "url":"http://koleso19.ru",
+"callback":"qwerty"}
+,{ "url":"http://shop.kolesa-kik.ru | http://kolesa-kik.ru",
+"callback":"qwerty"}
+,{ "url":"http://kolesa7.ru",
+"callback":"qwerty"}
+,{ "url":"http://град-сервис.рф",
+"callback":"qwerty"}
+,{ "url":"http://gruzchikov19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sib-info.ru/content/5599/ooo-estet/about.html",
+"callback":"qwerty"}
+,{ "url":"http://авилон.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://rewansh.i-gkh.ru",
+"callback":"qwerty"}
+,{ "url":"http://муп-ужк.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://партнер19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.mgfabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://uk-saes.ru",
+"callback":"qwerty"}
+,{ "url":"http://ужк-эксплуатация.рф",
+"callback":"qwerty"}
+,{ "url":"http://лигажкх.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.vlastainvestdom.ru",
+"callback":"qwerty"}
+,{ "url":"http://servislain.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kommsluzhba.ru",
+"callback":"qwerty"}
+,{ "url":"http://ukzhilfond-r19.ru",
+"callback":"qwerty"}
+,{ "url":"http://clean-houses.ru",
+"callback":"qwerty"}
+,{ "url":"http://ayk-rx.ru",
+"callback":"qwerty"}
+,{ "url":"http://uyut-ik.ru",
+"callback":"qwerty"}
+,{ "url":"http://sayanservice.ru",
+"callback":"qwerty"}
+,{ "url":"http://luxplusseven.hop.ru",
+"callback":"qwerty"}
+,{ "url":"http://ук-ника.рф",
+"callback":"qwerty"}
+,{ "url":"http://tsg-ahtura.ru",
+"callback":"qwerty"}
+,{ "url":"http://сервис-лайн.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.raduga.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.suek.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.stopclop.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.b-kh.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.may.pul.ru",
+"callback":"qwerty"}
+,{ "url":"http://magnit19.ru",
+"callback":"qwerty"}
+,{ "url":"http://1001инструмент.рф | http://prichal19.ru",
+"callback":"qwerty"}
+,{ "url":"http://metinc.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakanfasad.ru",
+"callback":"qwerty"}
+,{ "url":"http://inozabor.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.mechel.ru",
+"callback":"qwerty"}
+,{ "url":"http://prichal19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.steel-z.ru",
+"callback":"qwerty"}
+,{ "url":"http://hmt-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://smik.pro",
+"callback":"qwerty"}
+,{ "url":"http://metallan-company.ru",
+"callback":"qwerty"}
+,{ "url":"http://заводсит.рф",
+"callback":"qwerty"}
+,{ "url":"http://ip-rybachenko.zaiger.ru",
+"callback":"qwerty"}
+,{ "url":"http://390vorotaabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://inteco19.ru",
+"callback":"qwerty"}
+,{ "url":"http://doorhan-nsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://izarnon.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.spkprofil.ru | http://www.abakan.spk.ru",
+"callback":"qwerty"}
+,{ "url":"http://sibazmo.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sm-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.gseis.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.stalgrad19.ru",
+"callback":"qwerty"}
+,{ "url":"http://rn-card.ru",
+"callback":"qwerty"}
+,{ "url":"http://pusk-2.ru",
+"callback":"qwerty"}
+,{ "url":"http://snab-express.su",
+"callback":"qwerty"}
+,{ "url":"http://www.gk-stk24.ru | http://сибрти.рф",
+"callback":"qwerty"}
+,{ "url":"http://xakpak.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.marafet-ooo.ru",
+"callback":"qwerty"}
+,{ "url":"http://причал19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.krepeg24.ru",
+"callback":"qwerty"}
+,{ "url":"http://ra19.ru",
+"callback":"qwerty"}
+,{ "url":"http://stepnoi.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kvsu.ru",
+"callback":"qwerty"}
+,{ "url":"http://apk-uspeh.ru",
+"callback":"qwerty"}
+,{ "url":"http://абакануголь.рф",
+"callback":"qwerty"}
+,{ "url":"http://втормет24.рф",
+"callback":"qwerty"}
+,{ "url":"http://eko-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://ps19.ru",
+"callback":"qwerty"}
+,{ "url":"http://мпк19.рф",
+"callback":"qwerty"}
+,{ "url":"http://muraveynik-24.ru",
+"callback":"qwerty"}
+,{ "url":"http://ms19.ru",
+"callback":"qwerty"}
+,{ "url":"http://fasad19.ru",
+"callback":"qwerty"}
+,{ "url":"http://lider.naenisee.ru/",
+"callback":"qwerty"}
+,{ "url":"http://sfera19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sib-beton.com",
+"callback":"qwerty"}
+,{ "url":"http://gbk-1khakassia.ru",
+"callback":"qwerty"}
+,{ "url":"http://stroika19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.betonservice19.ru",
+"callback":"qwerty"}
+,{ "url":"http://algoritm19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.бпарус.рф",
+"callback":"qwerty"}
+,{ "url":"http://ника-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://gk-concrete.ru",
+"callback":"qwerty"}
+,{ "url":"http://mzsm24.ru",
+"callback":"qwerty"}
+,{ "url":"http://цементабакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://beton-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://alkon24.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sibyt.ru | http://торгсервис19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.abakan-master.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.стеновые-блоки19.рф",
+"callback":"qwerty"}
+,{ "url":"http://kirpich-grad.ru",
+"callback":"qwerty"}
+,{ "url":"http://sbiznes.ru | http://sibirskiy-biznes.pulscen.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.поликарбонат19.рф",
+"callback":"qwerty"}
+,{ "url":"http://spk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://abs19.ru",
+"callback":"qwerty"}
+,{ "url":"http://eps19.com",
+"callback":"qwerty"}
+,{ "url":"http://indigo19.ru",
+"callback":"qwerty"}
+,{ "url":"http://kspanel.ru",
+"callback":"qwerty"}
+,{ "url":"http://сервис-19.рф",
+"callback":"qwerty"}
+,{ "url":"http://su-29.su",
+"callback":"qwerty"}
+,{ "url":"http://vsemvorota.com",
+"callback":"qwerty"}
+,{ "url":"http://ак19.рф",
+"callback":"qwerty"}
+,{ "url":"http://abakansvaya.ru",
+"callback":"qwerty"}
+,{ "url":"http://katrina19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sdscompany.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.saunabas.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.scandinavstroy.ru",
+"callback":"qwerty"}
+,{ "url":"http://экодрев19.рф",
+"callback":"qwerty"}
+,{ "url":"http://fd4266.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.jam.su",
+"callback":"qwerty"}
+,{ "url":"http://сс19.рф",
+"callback":"qwerty"}
+,{ "url":"http://овалтун.рф",
+"callback":"qwerty"}
+,{ "url":"http://domdladoma.com",
+"callback":"qwerty"}
+,{ "url":"http://www.pilon.ru",
+"callback":"qwerty"}
+,{ "url":"http://теплыйдом19.рф",
+"callback":"qwerty"}
+,{ "url":"http://Trademaster-sibir.ru",
+"callback":"qwerty"}
+,{ "url":"http://набережный.рус",
+"callback":"qwerty"}
+,{ "url":"http://водолей.рф",
+"callback":"qwerty"}
+,{ "url":"http://миркрасок24.рф",
+"callback":"qwerty"}
+,{ "url":"http://remontabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://tdom.info",
+"callback":"qwerty"}
+,{ "url":"http://www.tstn.biz",
+"callback":"qwerty"}
+,{ "url":"http://abakandialstroy.ru",
+"callback":"qwerty"}
+,{ "url":"http://основа-дома.рф",
+"callback":"qwerty"}
+,{ "url":"http://кровельныйцентр.xn--p1ai/?tagkc=1522226127&utm_source=2gis&utm_medium=cpc&utm_campaign=abakan",
+"callback":"qwerty"}
+,{ "url":"http://glavhozbaza.ru",
+"callback":"qwerty"}
+,{ "url":"http://ssc19.ru | http://bgazobeton.ru",
+"callback":"qwerty"}
+,{ "url":"http://teplo-vdom.com",
+"callback":"qwerty"}
+,{ "url":"http://e19-stroy.ru",
+"callback":"qwerty"}
+,{ "url":"http://promtk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://via-del-corso.blizko.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.germetik119.ru | http://www.germetik19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.fasadproff.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.metallprofil.ru",
+"callback":"qwerty"}
+,{ "url":"http://avangard-ppu.ru",
+"callback":"qwerty"}
+,{ "url":"http://cmp19.ru",
+"callback":"qwerty"}
+,{ "url":"http://михаилппу.рф",
+"callback":"qwerty"}
+,{ "url":"http://строй-лайф.рф",
+"callback":"qwerty"}
+,{ "url":"http://vidom.ru",
+"callback":"qwerty"}
+,{ "url":"http://zavodp.ru",
+"callback":"qwerty"}
+,{ "url":"http://rastro-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://sibteplokomplekt.ru",
+"callback":"qwerty"}
+,{ "url":"http://саянскийполимер.рф",
+"callback":"qwerty"}
+,{ "url":"http://интех-сибирь.рф",
+"callback":"qwerty"}
+,{ "url":"http://фасадысибири.рф",
+"callback":"qwerty"}
+,{ "url":"http://triumf-servis.biz",
+"callback":"qwerty"}
+,{ "url":"http://aeroflex-krsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://ekovata-topgrade.ru",
+"callback":"qwerty"}
+,{ "url":"http://фасады19.рф",
+"callback":"qwerty"}
+,{ "url":"http://polutec.ru | http://скорлупа-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://пенопласт-сервис.рф",
+"callback":"qwerty"}
+,{ "url":"http://пенопласт-сервис.рф | http://пенопласт-сервис.рф",
+"callback":"qwerty"}
+,{ "url":"http://zodchie.su",
+"callback":"qwerty"}
+,{ "url":"http://hgs19.ru",
+"callback":"qwerty"}
+,{ "url":"http://landshaftpark.ru",
+"callback":"qwerty"}
+,{ "url":"http://minusinsk-plitka.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.окраска-листогиб.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.asia-siberia.ru",
+"callback":"qwerty"}
+,{ "url":"http://модныештучки19.рф",
+"callback":"qwerty"}
+,{ "url":"http://nvf-stroy.su",
+"callback":"qwerty"}
+,{ "url":"http://фасадэлитстрой.рф",
+"callback":"qwerty"}
+,{ "url":"http://ilona-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://specautostroy.ru",
+"callback":"qwerty"}
+,{ "url":"http://almaz-klimat.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.meteostudia.ru",
+"callback":"qwerty"}
+,{ "url":"http://profvod.ru",
+"callback":"qwerty"}
+,{ "url":"http://sibgeo-centr.tiu.ru",
+"callback":"qwerty"}
+,{ "url":"http://rsbv.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.doorhan.ru",
+"callback":"qwerty"}
+,{ "url":"http://tent-master.com",
+"callback":"qwerty"}
+,{ "url":"http://abakanavtotent.ru",
+"callback":"qwerty"}
+,{ "url":"http://sip19.ru",
+"callback":"qwerty"}
+,{ "url":"http://hvph.ru",
+"callback":"qwerty"}
+,{ "url":"http://eurocleaning19.ru",
+"callback":"qwerty"}
+,{ "url":"http://comfort-clean.ru",
+"callback":"qwerty"}
+,{ "url":"http://vert-teh.ru",
+"callback":"qwerty"}
+,{ "url":"http://19bti.ru",
+"callback":"qwerty"}
+,{ "url":"http://геопрост.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.r19.rosinv.ru",
+"callback":"qwerty"}
+,{ "url":"http://столица19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.itpgrafit.ru",
+"callback":"qwerty"}
+,{ "url":"http://акватория19.рф",
+"callback":"qwerty"}
+,{ "url":"http://аквашоп24.рф",
+"callback":"qwerty"}
+,{ "url":"http://zavodloft.ru/",
+"callback":"qwerty"}
+,{ "url":"http://abakan19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ipoteka19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.abakan-rielt.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.r24.rosinv.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.pstroy.pro",
+"callback":"qwerty"}
+,{ "url":"http://kedrovyterem.ru",
+"callback":"qwerty"}
+,{ "url":"http://aqualine-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://19rf.ru",
+"callback":"qwerty"}
+,{ "url":"http://teplopolabakan.ru | http://теплый-пол-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.akropol19.ru",
+"callback":"qwerty"}
+,{ "url":"http://tsst.su | http://otrazhenie.su",
+"callback":"qwerty"}
+,{ "url":"http://www.agf19.ru",
+"callback":"qwerty"}
+,{ "url":"http://chps19.ru",
+"callback":"qwerty"}
+,{ "url":"http://uks-zhilstroy.ru | http://komarovo.vip",
+"callback":"qwerty"}
+,{ "url":"http://abakan-sk.ru",
+"callback":"qwerty"}
+,{ "url":"http://мосстройинвест19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.lava19.ru",
+"callback":"qwerty"}
+,{ "url":"http://мир-каминов19.рф | http://sibirskiy-dom.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.blizko.ru/firms/13518886",
+"callback":"qwerty"}
+,{ "url":"http://ess19.ru",
+"callback":"qwerty"}
+,{ "url":"http://goodcube.ru | http://абакан-фильтр.рф",
+"callback":"qwerty"}
+,{ "url":"http://поверка19.рф",
+"callback":"qwerty"}
+,{ "url":"http://аквасервис24.рф",
+"callback":"qwerty"}
+,{ "url":"http://farteza.ru",
+"callback":"qwerty"}
+,{ "url":"http://тепломонтаж19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.poverka19abakan.com",
+"callback":"qwerty"}
+,{ "url":"http://topenar.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sibirskiy-dom.ru",
+"callback":"qwerty"}
+,{ "url":"http://югстрой19.рф",
+"callback":"qwerty"}
+,{ "url":"http://rsabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://astro19.ru | http://фундамент19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.doma42.com",
+"callback":"qwerty"}
+,{ "url":"http://www.arhograd.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.integraservic.ru",
+"callback":"qwerty"}
+,{ "url":"http://garant-stroy.sprinsite.ru",
+"callback":"qwerty"}
+,{ "url":"http://amk-lom.ru",
+"callback":"qwerty"}
+,{ "url":"http://aquamir-rh.ru",
+"callback":"qwerty"}
+,{ "url":"http://акватерм24.рф",
+"callback":"qwerty"}
+,{ "url":"http://plaskom.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakanvodokanal.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.hakresvod.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.aqua-prof.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.mpaes.ru",
+"callback":"qwerty"}
+,{ "url":"http://enerservice.ru",
+"callback":"qwerty"}
+,{ "url":"http://авангард-энерго.рф",
+"callback":"qwerty"}
+,{ "url":"http://fix-price.ru",
+"callback":"qwerty"}
+,{ "url":"http://georg-mebel.ru",
+"callback":"qwerty"}
+,{ "url":"http://абакан.бутехника.рф | http://сервиснадежда.рф",
+"callback":"qwerty"}
+,{ "url":"http://бубыттехника.рф",
+"callback":"qwerty"}
+,{ "url":"http://sibhoztorg.naenisee.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.himpromtorg.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.24btt.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.citilink.ru",
+"callback":"qwerty"}
+,{ "url":"http://cenalom.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.eldorado.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.aleksaudio.ru",
+"callback":"qwerty"}
+,{ "url":"http://saladbio.ru",
+"callback":"qwerty"}
+,{ "url":"http://территория19.рф",
+"callback":"qwerty"}
+,{ "url":"http://vgnprint.com",
+"callback":"qwerty"}
+,{ "url":"http://spektr-foto.ru",
+"callback":"qwerty"}
+,{ "url":"http://прайм19.рф | http://канцпрайм.рф",
+"callback":"qwerty"}
+,{ "url":"http://cheese-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.abakanfoto.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakanprint.ru",
+"callback":"qwerty"}
+,{ "url":"http://fotomir19.ru",
+"callback":"qwerty"}
+,{ "url":"http://unost19.ru",
+"callback":"qwerty"}
+,{ "url":"http://aprints.ru",
+"callback":"qwerty"}
+,{ "url":"http://отпечаток19.рф | http://19fishka.ru",
+"callback":"qwerty"}
+,{ "url":"http://khakasenergo.ru | http://mrsk-sib.ru",
+"callback":"qwerty"}
+,{ "url":"http://krsk-sbit.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakanenergo.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.oboronenergo.su",
+"callback":"qwerty"}
+,{ "url":"http://www.es-ooo.ru",
+"callback":"qwerty"}
+,{ "url":"http://so-ups.ru",
+"callback":"qwerty"}
+,{ "url":"http://mres19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sibgenco.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.khakensb.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.mrsk-sib.ru/index.php?lang=ru19",
+"callback":"qwerty"}
+,{ "url":"http://bcleaning.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.cleancom.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.gk-expo.ru | http://expert-po.ru",
+"callback":"qwerty"}
+,{ "url":"http://gerkon19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.krascsm.ru",
+"callback":"qwerty"}
+,{ "url":"http://csm19.ru",
+"callback":"qwerty"}
+,{ "url":"http://pickpoint.ru",
+"callback":"qwerty"}
+,{ "url":"http://памятники-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.3dgrani.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan-granit.ru",
+"callback":"qwerty"}
+,{ "url":"http://ritual19.ru",
+"callback":"qwerty"}
+,{ "url":"http://graver-master.net",
+"callback":"qwerty"}
+,{ "url":"http://rmk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ритуал-минусинск.рф",
+"callback":"qwerty"}
+,{ "url":"http://реквием-минусинск.рф",
+"callback":"qwerty"}
+,{ "url":"http://ритуал.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://krasgaz.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.krasgaz.ru",
+"callback":"qwerty"}
+,{ "url":"http://санитар24.рф",
+"callback":"qwerty"}
+,{ "url":"http://hakdez.ru",
+"callback":"qwerty"}
+,{ "url":"http://khakdez.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.haktek.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ruses.ru",
+"callback":"qwerty"}
+,{ "url":"http://vesaoz.ru | http://abakan.vskroem.pro",
+"callback":"qwerty"}
+,{ "url":"http://www.otkryvanie-dverej-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://tritonxxrom.ru",
+"callback":"qwerty"}
+,{ "url":"http://служба-открывания19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.master-lock19.com",
+"callback":"qwerty"}
+,{ "url":"http://открыть-дверь-гараж-авто.рф",
+"callback":"qwerty"}
+,{ "url":"http://abakan.ndsooo.ru",
+"callback":"qwerty"}
+,{ "url":"http://sogdiana19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ателье19.рф",
+"callback":"qwerty"}
+,{ "url":"http://sibtechnostroy.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.тд-русичи.рф",
+"callback":"qwerty"}
+,{ "url":"http://рации19.рус",
+"callback":"qwerty"}
+,{ "url":"http://plomba24.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.barahla.net",
+"callback":"qwerty"}
+,{ "url":"http://imfast.com",
+"callback":"qwerty"}
+,{ "url":"http://am.ru",
+"callback":"qwerty"}
+,{ "url":"http://domkadrov.ru",
+"callback":"qwerty"}
+,{ "url":"http://adsib.ru\abakan\",
+"callback":"qwerty"}
+,{ "url":"http://леснойресурс.рф",
+"callback":"qwerty"}
+,{ "url":"http://abakan.kvartirka.com",
+"callback":"qwerty"}
+,{ "url":"http://abakan.belivo.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ligakvartir.ru",
+"callback":"qwerty"}
+,{ "url":"http://yourenta.ru/c-abakan",
+"callback":"qwerty"}
+,{ "url":"http://drom.ru",
+"callback":"qwerty"}
+,{ "url":"http://youla.io",
+"callback":"qwerty"}
+,{ "url":"http://abakan.1001kvartira.ru",
+"callback":"qwerty"}
+,{ "url":"http://serviceproteam.ru",
+"callback":"qwerty"}
+,{ "url":"http://sofiservice19.ru",
+"callback":"qwerty"}
+,{ "url":"http://bios19.com",
+"callback":"qwerty"}
+,{ "url":"http://upgrade19.ru",
+"callback":"qwerty"}
+,{ "url":"http://компьютер19.рф",
+"callback":"qwerty"}
+,{ "url":"http://pc19.ru",
+"callback":"qwerty"}
+,{ "url":"http://19srv.ru",
+"callback":"qwerty"}
+,{ "url":"http://ascnb1.ru",
+"callback":"qwerty"}
+,{ "url":"http://ekran19.ru",
+"callback":"qwerty"}
+,{ "url":"http://slaider.org",
+"callback":"qwerty"}
+,{ "url":"http://пк19.рф",
+"callback":"qwerty"}
+,{ "url":"http://gadget-plus.ru",
+"callback":"qwerty"}
+,{ "url":"http://алмаз-центр.рф",
+"callback":"qwerty"}
+,{ "url":"http://рестарт19.рф",
+"callback":"qwerty"}
+,{ "url":"http://iservice19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.solivers.ru",
+"callback":"qwerty"}
+,{ "url":"http://19site.ru",
+"callback":"qwerty"}
+,{ "url":"http://alexzdesign.ru",
+"callback":"qwerty"}
+,{ "url":"http://o9media.ru",
+"callback":"qwerty"}
+,{ "url":"http://endelea.ru",
+"callback":"qwerty"}
+,{ "url":"http://radiovoyage.ru",
+"callback":"qwerty"}
+,{ "url":"http://nettech.company",
+"callback":"qwerty"}
+,{ "url":"http://абаканвеб.рф",
+"callback":"qwerty"}
+,{ "url":"http://it-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://n-i-c-e.ru",
+"callback":"qwerty"}
+,{ "url":"http://kpromo.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sib-info.ru",
+"callback":"qwerty"}
+,{ "url":"http://reklamovic19.ru",
+"callback":"qwerty"}
+,{ "url":"http://idea19.ru",
+"callback":"qwerty"}
+,{ "url":"http://identx.ru/?utm_source=2gis",
+"callback":"qwerty"}
+,{ "url":"http://msonline.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakanhelp.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.magneex.com",
+"callback":"qwerty"}
+,{ "url":"http://cintrh.ru",
+"callback":"qwerty"}
+,{ "url":"http://biz-con.biz",
+"callback":"qwerty"}
+,{ "url":"http://www.torgi19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.infocentre.su",
+"callback":"qwerty"}
+,{ "url":"http://atlcom.ru",
+"callback":"qwerty"}
+,{ "url":"http://partner.forus.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ntkplus.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kkms.ru",
+"callback":"qwerty"}
+,{ "url":"http://ic-iskra.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ilan-ric.ru",
+"callback":"qwerty"}
+,{ "url":"http://консультант19.рф",
+"callback":"qwerty"}
+,{ "url":"http://vp.ru",
+"callback":"qwerty"}
+,{ "url":"http://mblz.ru",
+"callback":"qwerty"}
+,{ "url":"http://beeline.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.abakan.dns-shop.ru",
+"callback":"qwerty"}
+,{ "url":"http://to-click.ru",
+"callback":"qwerty"}
+,{ "url":"http://bumarket19.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.snowbars.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.aldo-shop.ru | http://www.aldo24.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rbt.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.copy-center-abakan.com",
+"callback":"qwerty"}
+,{ "url":"http://omikom.ru",
+"callback":"qwerty"}
+,{ "url":"http://uznay-prezidenta.ru",
+"callback":"qwerty"}
+,{ "url":"http://banks.expert",
+"callback":"qwerty"}
+,{ "url":"http://mir-zaimov.ru",
+"callback":"qwerty"}
+,{ "url":"http://kompaskreditov.ru",
+"callback":"qwerty"}
+,{ "url":"http://bank-advisor.ru",
+"callback":"qwerty"}
+,{ "url":"http://profi.ru",
+"callback":"qwerty"}
+,{ "url":"http://gorodvonline.ru",
+"callback":"qwerty"}
+,{ "url":"http://kupi19.ru",
+"callback":"qwerty"}
+,{ "url":"http://gkh1.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.nakaba.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.vg-news.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.city",
+"callback":"qwerty"}
+,{ "url":"http://abakan-news.ru",
+"callback":"qwerty"}
+,{ "url":"http://119auto.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.19rus.info",
+"callback":"qwerty"}
+,{ "url":"http://101sauna.ru/abakan",
+"callback":"qwerty"}
+,{ "url":"http://r19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ipoteka.domclick.ru/?utm_campaign=ipoteka_frk_mar_apr_2018_videobranding&utm_source=2gis&utm_medium=cpm&prod=4&.ru&dclid=CL_y_M_kkdoCFVdNGAodc",
+"callback":"qwerty"}
+,{ "url":"http://khit.info",
+"callback":"qwerty"}
+,{ "url":"http://www.it-inline.ru",
+"callback":"qwerty"}
+,{ "url":"http://sib-nsk.net",
+"callback":"qwerty"}
+,{ "url":"http://www.megafon.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.orionnet.ru",
+"callback":"qwerty"}
+,{ "url":"http://megabitset.ru",
+"callback":"qwerty"}
+,{ "url":"http://internet.abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://intertelecom.org",
+"callback":"qwerty"}
+,{ "url":"http://тв-скат.рф | http://www.scatplus.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.resurstranzit.ru",
+"callback":"qwerty"}
+,{ "url":"http://тесласеть.рф",
+"callback":"qwerty"}
+,{ "url":"http://electronm.org",
+"callback":"qwerty"}
+,{ "url":"http://maxxx.su",
+"callback":"qwerty"}
+,{ "url":"http://www.elekseti.ru",
+"callback":"qwerty"}
+,{ "url":"http://net.minusa.ru | http://enisey.net",
+"callback":"qwerty"}
+,{ "url":"http://minusinsk.sibset.ru",
+"callback":"qwerty"}
+,{ "url":"http://kristel.ru",
+"callback":"qwerty"}
+,{ "url":"http://edu.ru",
+"callback":"qwerty"}
+,{ "url":"http://pravo.gov.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.government.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.112info.ru",
+"callback":"qwerty"}
+,{ "url":"http://gia.edu.ru | http://r-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://premier.gov.ru",
+"callback":"qwerty"}
+,{ "url":"http://kremlin.ru",
+"callback":"qwerty"}
+,{ "url":"http://aiss.gov.ru",
+"callback":"qwerty"}
+,{ "url":"http://back2russia.ru",
+"callback":"qwerty"}
+,{ "url":"http://trudvsem.ru",
+"callback":"qwerty"}
+,{ "url":"http://smb.gov.ru",
+"callback":"qwerty"}
+,{ "url":"http://torgi.gov.ru",
+"callback":"qwerty"}
+,{ "url":"http://ege.edu.ru | http://r-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://rezerv.gov.ru",
+"callback":"qwerty"}
+,{ "url":"http://gov.ru",
+"callback":"qwerty"}
+,{ "url":"http://bus.gov.ru",
+"callback":"qwerty"}
+,{ "url":"http://spas-extreme.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.uznai-prezidenta.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.gosuslugi.ru",
+"callback":"qwerty"}
+,{ "url":"http://3d-navigator.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.vash-buh.ru",
+"callback":"qwerty"}
+,{ "url":"http://abk.garantws.ru",
+"callback":"qwerty"}
+,{ "url":"http://rarus-soft.ru",
+"callback":"qwerty"}
+,{ "url":"http://dabakan.cntd.ru",
+"callback":"qwerty"}
+,{ "url":"http://tensor.ru | http://sbis.ru",
+"callback":"qwerty"}
+,{ "url":"http://el-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://tricolor.tv",
+"callback":"qwerty"}
+,{ "url":"http://markor.su",
+"callback":"qwerty"}
+,{ "url":"http://radio-tech.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.khakasia.mts.ru/mobil_inet_and_tv/help/mts/offices/",
+"callback":"qwerty"}
+,{ "url":"http://shop.tele2.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.svyaznoy.ru",
+"callback":"qwerty"}
+,{ "url":"http://skupkaset.ru",
+"callback":"qwerty"}
+,{ "url":"http://Smart-Store19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.telefon.ru",
+"callback":"qwerty"}
+,{ "url":"http://gsm.kristel.ru",
+"callback":"qwerty"}
+,{ "url":"http://yota.ru",
+"callback":"qwerty"}
+,{ "url":"http://19gsm.ru",
+"callback":"qwerty"}
+,{ "url":"http://shop.huawei.ru/?utm_source=2gis&utm_medium=cpm_card_bd&utm_term=&utm_content=&utm_campaign=2018Q2_2Gis_Huawei",
+"callback":"qwerty"}
+,{ "url":"http://прайм-сервис24.рф",
+"callback":"qwerty"}
+,{ "url":"http://bo.com-pro.ru",
+"callback":"qwerty"}
+,{ "url":"http://mbalans.ru/",
+"callback":"qwerty"}
+,{ "url":"http://техноцентр24.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.com-pro.ru | http://bo.com-pro.ru/about",
+"callback":"qwerty"}
+,{ "url":"http://garant124.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.khakasia.ru",
+"callback":"qwerty"}
+,{ "url":"http://dls24.ru",
+"callback":"qwerty"}
+,{ "url":"http://miac.mz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakandc.ru",
+"callback":"qwerty"}
+,{ "url":"http://it4trade.ru",
+"callback":"qwerty"}
+,{ "url":"http://sobiz24.ru",
+"callback":"qwerty"}
+,{ "url":"http://ронлайн.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.expert-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.c-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sib-integ.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kredo-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://kbais.ru",
+"callback":"qwerty"}
+,{ "url":"http://wifistone.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.adey.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kiasofts.ru",
+"callback":"qwerty"}
+,{ "url":"http://shtinalex.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.bf19.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.kiasoft.ru/",
+"callback":"qwerty"}
+,{ "url":"http://rt.ru/light_plus?utm_source=2gis&utm_medium=cpc&utm_campaign=link_abakan",
+"callback":"qwerty"}
+,{ "url":"http://ttk-internet.com/abakan",
+"callback":"qwerty"}
+,{ "url":"http://www.rt.ru/b2b?utm_source=2gis&utm_medium=referal&utm_campaign=b2b_kartochka-kontakti_siber_Minusinsk",
+"callback":"qwerty"}
+,{ "url":"http://www.it-brigada.ru",
+"callback":"qwerty"}
+,{ "url":"http://bestcom-group.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.niketel.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.alfatelplus.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rt.ru/b2b?utm_source=2gis&utm_medium=cpc&utm_campaign=b2b_kartochka-kontakti_siber_Abakan",
+"callback":"qwerty"}
+,{ "url":"http://asiandragon.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.coffeeway.ru",
+"callback":"qwerty"}
+,{ "url":"http://coffee-like.com",
+"callback":"qwerty"}
+,{ "url":"http://akvarel19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sokolovadecor.com",
+"callback":"qwerty"}
+,{ "url":"http://rainbow19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sweetmoment.info",
+"callback":"qwerty"}
+,{ "url":"http://звоны.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://syemslona.ru",
+"callback":"qwerty"}
+,{ "url":"http://tortabakan.ru | http://sladkarnitsa.ru",
+"callback":"qwerty"}
+,{ "url":"http://sector-19.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://lazer-tag19.ru",
+"callback":"qwerty"}
+,{ "url":"http://pb19.ru",
+"callback":"qwerty"}
+,{ "url":"http://parksamohval.ru",
+"callback":"qwerty"}
+,{ "url":"http://ogni19.ru",
+"callback":"qwerty"}
+,{ "url":"http://salut-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://цф19.рф",
+"callback":"qwerty"}
+,{ "url":"http://золотойзамок.рф",
+"callback":"qwerty"}
+,{ "url":"http://rcz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.mamaroma.ru",
+"callback":"qwerty"}
+,{ "url":"http://na7vetrax.ru",
+"callback":"qwerty"}
+,{ "url":"http://парки19.рф",
+"callback":"qwerty"}
+,{ "url":"http://сады-мечты.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.sayanyeco.com",
+"callback":"qwerty"}
+,{ "url":"http://www.discovery-khakasia.ru",
+"callback":"qwerty"}
+,{ "url":"http://prazdnik19.ru",
+"callback":"qwerty"}
+,{ "url":"http://flourish19.com",
+"callback":"qwerty"}
+,{ "url":"http://1995351.mya5.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.prazd-nik.com",
+"callback":"qwerty"}
+,{ "url":"http://праздники19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.prazdnik-nataly19.ru",
+"callback":"qwerty"}
+,{ "url":"http://квест-хаус.рф",
+"callback":"qwerty"}
+,{ "url":"http://questminusinsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.sv-exit.ru",
+"callback":"qwerty"}
+,{ "url":"http://экспериментум.рф",
+"callback":"qwerty"}
+,{ "url":"http://киноальянс.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.kinoluch.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rolbi.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.catering-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan-prazdnik.ru | http://trapeza19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.malinniki-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.bodryi-den.ru",
+"callback":"qwerty"}
+,{ "url":"http://cakeshop1.ru",
+"callback":"qwerty"}
+,{ "url":"http://travelers-coffee.com",
+"callback":"qwerty"}
+,{ "url":"http://varenye.net",
+"callback":"qwerty"}
+,{ "url":"http://artlife24.ru",
+"callback":"qwerty"}
+,{ "url":"http://ilikeburger.ru",
+"callback":"qwerty"}
+,{ "url":"http://pirogiotdushi.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.chickenhouse19.ru",
+"callback":"qwerty"}
+,{ "url":"http://pizza19.ru",
+"callback":"qwerty"}
+,{ "url":"http://baskinrobbins.ru",
+"callback":"qwerty"}
+,{ "url":"http://kotofei19.ru",
+"callback":"qwerty"}
+,{ "url":"http://abazhur19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sayanaero.ru/service/restoran-gril-aviator",
+"callback":"qwerty"}
+,{ "url":"http://www.abakanzoo.ru",
+"callback":"qwerty"}
+,{ "url":"http://калинка-малинка19.рф",
+"callback":"qwerty"}
+,{ "url":"http://sushigo19.ru",
+"callback":"qwerty"}
+,{ "url":"http://всепро100.рф",
+"callback":"qwerty"}
+,{ "url":"http://пропорция.com",
+"callback":"qwerty"}
+,{ "url":"http://oki-doki24.ru",
+"callback":"qwerty"}
+,{ "url":"http://sushi-love.ru",
+"callback":"qwerty"}
+,{ "url":"http://pizzamia.kristel.ru",
+"callback":"qwerty"}
+,{ "url":"http://avk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://сушидо.рф",
+"callback":"qwerty"}
+,{ "url":"http://sibnrav.ru",
+"callback":"qwerty"}
+,{ "url":"http://суши-хвост.рф",
+"callback":"qwerty"}
+,{ "url":"http://суши-всем.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.pirogiotdushi.ru",
+"callback":"qwerty"}
+,{ "url":"http://chinatown19.ru",
+"callback":"qwerty"}
+,{ "url":"http://gustoresto.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.picnic-dostavka.ru",
+"callback":"qwerty"}
+,{ "url":"http://sushitaun.ru",
+"callback":"qwerty"}
+,{ "url":"http://каферусь.рф",
+"callback":"qwerty"}
+,{ "url":"http://sushiwok.ru",
+"callback":"qwerty"}
+,{ "url":"http://blinnizza.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sushifries.ru",
+"callback":"qwerty"}
+,{ "url":"http://bar19.ru",
+"callback":"qwerty"}
+,{ "url":"http://pek-dom.ru",
+"callback":"qwerty"}
+,{ "url":"http://тосё19.рф",
+"callback":"qwerty"}
+,{ "url":"http://mazal-abakan.ru | http://mazal-dostavka.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sdvorik19.info",
+"callback":"qwerty"}
+,{ "url":"http://dodopizza.ru",
+"callback":"qwerty"}
+,{ "url":"http://7lir.ru",
+"callback":"qwerty"}
+,{ "url":"http://перцы-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://19sushi.ru",
+"callback":"qwerty"}
+,{ "url":"http://haiyang.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.openkims.ru",
+"callback":"qwerty"}
+,{ "url":"http://oksushi19.ru",
+"callback":"qwerty"}
+,{ "url":"http://dk.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://dkkolos.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rdkdrujba.com",
+"callback":"qwerty"}
+,{ "url":"http://победа.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://адм.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://kubiki19.com",
+"callback":"qwerty"}
+,{ "url":"http://happyland19.ru",
+"callback":"qwerty"}
+,{ "url":"http://cdutur.ru",
+"callback":"qwerty"}
+,{ "url":"http://ddt-ust-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://ddt.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://окцм.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://rcps.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://abk.neurotrainings.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.centr-lira.ru",
+"callback":"qwerty"}
+,{ "url":"http://krabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://mmc.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://rcdo19.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.startjunior.ru/",
+"callback":"qwerty"}
+,{ "url":"http://www.rcdo19.ru",
+"callback":"qwerty"}
+,{ "url":"http://цдт.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://centr-kadisheva.ru",
+"callback":"qwerty"}
+,{ "url":"http://кдц-южный.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://baltbet.ru",
+"callback":"qwerty"}
+,{ "url":"http://cafe-bar-lider.ru",
+"callback":"qwerty"}
+,{ "url":"http://purpur-bar.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.publimerick.ru",
+"callback":"qwerty"}
+,{ "url":"http://юрта19.рф",
+"callback":"qwerty"}
+,{ "url":"http://bazakuba.ru",
+"callback":"qwerty"}
+,{ "url":"http://catering-abakan.ru/",
+"callback":"qwerty"}
+,{ "url":"http://chayhana19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.foodbar114.ru",
+"callback":"qwerty"}
+,{ "url":"http://cafekabanchik.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan-picnic.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan-sauna.ru",
+"callback":"qwerty"}
+,{ "url":"http://алтей24.рф",
+"callback":"qwerty"}
+,{ "url":"http://баня-нептун.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.hutor-extrim.ru",
+"callback":"qwerty"}
+,{ "url":"http://пансионат-бальзам.рф | http://sanbal.jimdo.com/",
+"callback":"qwerty"}
+,{ "url":"http://www.zolotoe19.ru",
+"callback":"qwerty"}
+,{ "url":"http://elitsauna.su",
+"callback":"qwerty"}
+,{ "url":"http://sauna-barracuda.ru",
+"callback":"qwerty"}
+,{ "url":"http://центральные-бани.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.anzas.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.chalpan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.usadba-okolitsa.ru",
+"callback":"qwerty"}
+,{ "url":"http://fss.ru",
+"callback":"qwerty"}
+,{ "url":"http://r19.fss.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.tfomsrh.ru",
+"callback":"qwerty"}
+,{ "url":"http://kadastr.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rosreestr.ru",
+"callback":"qwerty"}
+,{ "url":"http://rosselhoscenter.com",
+"callback":"qwerty"}
+,{ "url":"http://vniikr.ru",
+"callback":"qwerty"}
+,{ "url":"http://ipl19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ksp19.ru",
+"callback":"qwerty"}
+,{ "url":"http://to19.minjust.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ukrsn.ru",
+"callback":"qwerty"}
+,{ "url":"http://sibmtu.ru",
+"callback":"qwerty"}
+,{ "url":"http://enbvu.ru",
+"callback":"qwerty"}
+,{ "url":"http://usd.hak.sudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://krasstat.gks.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.r19.fssprus.ru",
+"callback":"qwerty"}
+,{ "url":"http://minusinsk.tpprf.ru",
+"callback":"qwerty"}
+,{ "url":"http://hakasia.fas.gov.ru",
+"callback":"qwerty"}
+,{ "url":"http://19reg.roszdravnadzor.ru",
+"callback":"qwerty"}
+,{ "url":"http://19.rpn.gov.ru",
+"callback":"qwerty"}
+,{ "url":"http://24.rospotrebnadzor.ru/about/structure/16931",
+"callback":"qwerty"}
+,{ "url":"http://24.rkn.gov.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rsn-hak.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.19.fsin.su",
+"callback":"qwerty"}
+,{ "url":"http://hakasstat.gks.ru | http://krasstat.gks.ru",
+"callback":"qwerty"}
+,{ "url":"http://enis.gosnadzor.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.nalog.ru",
+"callback":"qwerty"}
+,{ "url":"http://19.rospotrebnadzor.ru",
+"callback":"qwerty"}
+,{ "url":"http://hakasia.roskazna.ru",
+"callback":"qwerty"}
+,{ "url":"http://krasnoyarsk.roskazna.ru",
+"callback":"qwerty"}
+,{ "url":"http://мвд.рф",
+"callback":"qwerty"}
+,{ "url":"http://тос.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://stu.customs.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan11.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan9.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan5.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan12.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan10.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan7.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernogorsk3.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan2.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernogorsk5.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://mirsud24.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan6.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernogorsk1.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan8.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernogorsk2.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://mirsud24.ru | http://mirsud24.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan4.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernogorsk4.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan3.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://altaysky.hak.sudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://ust-abakansky.hak.sudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://gvs.hak.sudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernogorsky.hak.sudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakansky.hak.sudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan1.hak.msudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://khakasia.arbitr.ru",
+"callback":"qwerty"}
+,{ "url":"http://vs.hak.sudrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://центрнсэ.рф",
+"callback":"qwerty"}
+,{ "url":"http://expertiza-kvazar24.ru/",
+"callback":"qwerty"}
+,{ "url":"http://expert-krsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://fenixabakan.nethouse.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakanproekt.ru",
+"callback":"qwerty"}
+,{ "url":"http://praksisabakan.blogspot.ru",
+"callback":"qwerty"}
+,{ "url":"http://mbucso.ru",
+"callback":"qwerty"}
+,{ "url":"http://uspn-altay.ru",
+"callback":"qwerty"}
+,{ "url":"http://uspn.dwtolk.ru/ob-organizatsii",
+"callback":"qwerty"}
+,{ "url":"http://gostinitza-sotz.ru",
+"callback":"qwerty"}
+,{ "url":"http://центр-семьи-минусинский.рф",
+"callback":"qwerty"}
+,{ "url":"http://zentr-radost.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://minusinsk.info",
+"callback":"qwerty"}
+,{ "url":"http://uspn-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://fssprus.ru/iss/ip | http://r19.fssprus.ru",
+"callback":"qwerty"}
+,{ "url":"http://fssprus.ru/iss/ip",
+"callback":"qwerty"}
+,{ "url":"http://r19.fssprus.ru | http://fssprus.ru/iss/ip",
+"callback":"qwerty"}
+,{ "url":"http://www.zankhakasia.ru",
+"callback":"qwerty"}
+,{ "url":"http://hakasia.sledcom.ru",
+"callback":"qwerty"}
+,{ "url":"http://prokrh.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.zsproc.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.prokrh.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.prokrh.ru/",
+"callback":"qwerty"}
+,{ "url":"http://r-19.ru/authorities/commissioner-for-human-rights/common/adresa-i-kontakty/",
+"callback":"qwerty"}
+,{ "url":"http://r-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.r-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://r-19.ru | http://r-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://gkt19.ru",
+"callback":"qwerty"}
+,{ "url":"http://r-19.ru | http://zankhakasia.ru",
+"callback":"qwerty"}
+,{ "url":"http://sfo.gov.ru | http://r-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://minstroy19.ru",
+"callback":"qwerty"}
+,{ "url":"http://culture19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.stm19.ru",
+"callback":"qwerty"}
+,{ "url":"http://mcxpx.ru",
+"callback":"qwerty"}
+,{ "url":"http://msz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rosminzdrav.ru | http://mz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://khakas.er.ru",
+"callback":"qwerty"}
+,{ "url":"http://ldpr.ru",
+"callback":"qwerty"}
+,{ "url":"http://krasnoyarsk.er.ru",
+"callback":"qwerty"}
+,{ "url":"http://khakassia.spravedlivo.ru",
+"callback":"qwerty"}
+,{ "url":"http://kprfkh.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.pfrf.ru",
+"callback":"qwerty"}
+,{ "url":"http://24.мвд.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.rfs-rf.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.krasnadzor.ru",
+"callback":"qwerty"}
+,{ "url":"http://r-19.ru/authorities/state-inspectorate-for-supervision-of-the-technical-state/common/adresa-i-kontakty/",
+"callback":"qwerty"}
+,{ "url":"http://www.doopt.ru",
+"callback":"qwerty"}
+,{ "url":"http://clati-er.ru",
+"callback":"qwerty"}
+,{ "url":"http://lpcentr.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.19agro.ru",
+"callback":"qwerty"}
+,{ "url":"http://direkcia19.ru",
+"callback":"qwerty"}
+,{ "url":"http://zapovednik-khakassky.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.platon.ru",
+"callback":"qwerty"}
+,{ "url":"http://19.мвд.xn--p1ai/MVD_Hakasii/strukturarh/Federalnie_kazennie_uchrezhdenija_MVD_po/Federalnoe_kazennoe_uchrezhdenie_Centr_h",
+"callback":"qwerty"}
+,{ "url":"http://19.mvd.ru",
+"callback":"qwerty"}
+,{ "url":"http://rosgvard.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.voopik.ru",
+"callback":"qwerty"}
+,{ "url":"http://voginfo.ru",
+"callback":"qwerty"}
+,{ "url":"http://profobraz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://aaregion.ru/respublika-khakasiya",
+"callback":"qwerty"}
+,{ "url":"http://www.redcross19.ru",
+"callback":"qwerty"}
+,{ "url":"http://souzchernobyl.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rg27.ru",
+"callback":"qwerty"}
+,{ "url":"http://vos19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.fprh.ru",
+"callback":"qwerty"}
+,{ "url":"http://hrps19.ru",
+"callback":"qwerty"}
+,{ "url":"http://комитет24.рф",
+"callback":"qwerty"}
+,{ "url":"http://abakan.edin.center",
+"callback":"qwerty"}
+,{ "url":"http://www.oprh.ru",
+"callback":"qwerty"}
+,{ "url":"http://нотариальнаяпалата19.рф",
+"callback":"qwerty"}
+,{ "url":"http://nalog.ru",
+"callback":"qwerty"}
+,{ "url":"http://mfc-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://24mfc.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.19.fsin.su/structure/abakanskaya-vospitatelnaya-koloniya",
+"callback":"qwerty"}
+,{ "url":"http://19.fsin.su",
+"callback":"qwerty"}
+,{ "url":"http://www.24.fsin.su",
+"callback":"qwerty"}
+,{ "url":"http://www.khakas.izbirkom.ru",
+"callback":"qwerty"}
+,{ "url":"http://усть-абакан.рус",
+"callback":"qwerty"}
+,{ "url":"http://www.vskhakasia.ru",
+"callback":"qwerty"}
+,{ "url":"http://kksdr4.ru",
+"callback":"qwerty"}
+,{ "url":"http://arhivrh19.ru",
+"callback":"qwerty"}
+,{ "url":"http://24.мвд.xn--p1ai/ms",
+"callback":"qwerty"}
+,{ "url":"http://altai.19.mvd.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.gibdd.ru",
+"callback":"qwerty"}
+,{ "url":"http://fondkristall.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.chernogorsk.com",
+"callback":"qwerty"}
+,{ "url":"http://гуо.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://бку.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://укмис.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://guo-chernogorsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://укхт.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://uo-minusinsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://дгаз.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://мэрия.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.mo-altay.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.mo-altay.ru/index.php?option=com_content&view=article&id=81&Itemid=519",
+"callback":"qwerty"}
+,{ "url":"http://amr24.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ust-abakan.org",
+"callback":"qwerty"}
+,{ "url":"http://nvt.bdu.su",
+"callback":"qwerty"}
+,{ "url":"http://www.mo-sapogov.ru",
+"callback":"qwerty"}
+,{ "url":"http://malminusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://opitnoe.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.посёлок-расцвет.рф",
+"callback":"qwerty"}
+,{ "url":"http://belssovet.ru",
+"callback":"qwerty"}
+,{ "url":"http://мо-солнечный.рф",
+"callback":"qwerty"}
+,{ "url":"http://spodsinee.ru",
+"callback":"qwerty"}
+,{ "url":"http://Snab19.ru",
+"callback":"qwerty"}
+,{ "url":"http://угочсипб.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://19.mchs.gov.ru",
+"callback":"qwerty"}
+,{ "url":"http://yadoveray.ru",
+"callback":"qwerty"}
+,{ "url":"http://yasnoeutro.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.khakassia.travel",
+"callback":"qwerty"}
+,{ "url":"http://sos112.ru",
+"callback":"qwerty"}
+,{ "url":"http://gvk-minusinsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://cropp-town.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rezident.info",
+"callback":"qwerty"}
+,{ "url":"http://антенны24.рф",
+"callback":"qwerty"}
+,{ "url":"http://квинтесс.рф",
+"callback":"qwerty"}
+,{ "url":"http://fort-c2-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://охрана-форт.рф",
+"callback":"qwerty"}
+,{ "url":"http://аудит-01.рф | http://www.audit-01.com",
+"callback":"qwerty"}
+,{ "url":"http://www.fgup-ohrana.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakanvdpo.ru",
+"callback":"qwerty"}
+,{ "url":"http://акмейз.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.dozor-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://domofon.city",
+"callback":"qwerty"}
+,{ "url":"http://www.videoum.ru",
+"callback":"qwerty"}
+,{ "url":"http://квант19.рф",
+"callback":"qwerty"}
+,{ "url":"http://дс-ком.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.ohrana19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.crockid.ru",
+"callback":"qwerty"}
+,{ "url":"http://oaokontakt.info",
+"callback":"qwerty"}
+,{ "url":"http://www.sweetmama.ru",
+"callback":"qwerty"}
+,{ "url":"http://mama-koala.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.budumamoy.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.atf19.ru",
+"callback":"qwerty"}
+,{ "url":"http://спецпрофи.рус",
+"callback":"qwerty"}
+,{ "url":"http://www.partizan19.ru",
+"callback":"qwerty"}
+,{ "url":"http://specsibir.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.specodejda19.ru",
+"callback":"qwerty"}
+,{ "url":"http://fabrikapersonal.ru",
+"callback":"qwerty"}
+,{ "url":"http://slatwicki.com",
+"callback":"qwerty"}
+,{ "url":"http://white-ledy.ru",
+"callback":"qwerty"}
+,{ "url":"http://студия-тиффани.рф",
+"callback":"qwerty"}
+,{ "url":"http://pakety-abakan.business.site",
+"callback":"qwerty"}
+,{ "url":"http://romantic19.ru",
+"callback":"qwerty"}
+,{ "url":"http://rabochii-stil.ru",
+"callback":"qwerty"}
+,{ "url":"http://vostok.ru",
+"callback":"qwerty"}
+,{ "url":"http://sobuv.ru",
+"callback":"qwerty"}
+,{ "url":"http://obuvrus.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.unichel.ru",
+"callback":"qwerty"}
+,{ "url":"http://francesco.ru",
+"callback":"qwerty"}
+,{ "url":"http://valenkiopt.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.monro.biz",
+"callback":"qwerty"}
+,{ "url":"http://ralf.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.obuvrus.ru | http://emilia-estra.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ecco-shoes.ru",
+"callback":"qwerty"}
+,{ "url":"http://ionessi.ru",
+"callback":"qwerty"}
+,{ "url":"http://krujevo.net",
+"callback":"qwerty"}
+,{ "url":"http://www.dim.ru",
+"callback":"qwerty"}
+,{ "url":"http://incanto.ru",
+"callback":"qwerty"}
+,{ "url":"http://ostrov24.com",
+"callback":"qwerty"}
+,{ "url":"http://kanc5.ru",
+"callback":"qwerty"}
+,{ "url":"http://Igrushki19.ru",
+"callback":"qwerty"}
+,{ "url":"http://aversa-sibir.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakankniga.ru",
+"callback":"qwerty"}
+,{ "url":"http://kids-transport.center",
+"callback":"qwerty"}
+,{ "url":"http://фадейка.рф",
+"callback":"qwerty"}
+,{ "url":"http://levall.ru",
+"callback":"qwerty"}
+,{ "url":"http://tvoe.ru",
+"callback":"qwerty"}
+,{ "url":"http://olsenfashion.com",
+"callback":"qwerty"}
+,{ "url":"http://wedding-natali.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.zolla.com",
+"callback":"qwerty"}
+,{ "url":"http://conceptclub.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.oodji.com",
+"callback":"qwerty"}
+,{ "url":"http://чёкупила.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.zepter.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.aranworld.it",
+"callback":"qwerty"}
+,{ "url":"http://hotter.ru",
+"callback":"qwerty"}
+,{ "url":"http://alvo.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.deltatrade.ru",
+"callback":"qwerty"}
+,{ "url":"http://portalcomp.ru",
+"callback":"qwerty"}
+,{ "url":"http://кмтехника.рф",
+"callback":"qwerty"}
+,{ "url":"http://klaster19.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakanservice.com",
+"callback":"qwerty"}
+,{ "url":"http://holod19.jimdo.com",
+"callback":"qwerty"}
+,{ "url":"http://ваш-мастер-19.рф",
+"callback":"qwerty"}
+,{ "url":"http://ita-group.ru | http://ita-filter.ru",
+"callback":"qwerty"}
+,{ "url":"http://tehno-element.ru",
+"callback":"qwerty"}
+,{ "url":"http://deltatrade.ru",
+"callback":"qwerty"}
+,{ "url":"http://kmcom.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.alpha19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ока24.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.rimdom.com",
+"callback":"qwerty"}
+,{ "url":"http://cofedom.ru",
+"callback":"qwerty"}
+,{ "url":"http://sb19.ru/shop.html",
+"callback":"qwerty"}
+,{ "url":"http://www.mpapirus.ru",
+"callback":"qwerty"}
+,{ "url":"http://водопадхакасии.рф",
+"callback":"qwerty"}
+,{ "url":"http://водыхакасии.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.dns-shop.ru",
+"callback":"qwerty"}
+,{ "url":"http://videotehnika-servis.ru",
+"callback":"qwerty"}
+,{ "url":"http://servisbir.ru",
+"callback":"qwerty"}
+,{ "url":"http://техносервис-24.рф",
+"callback":"qwerty"}
+,{ "url":"http://datacenterplus.ru",
+"callback":"qwerty"}
+,{ "url":"http://prof-it19.ru",
+"callback":"qwerty"}
+,{ "url":"http://epson.ru",
+"callback":"qwerty"}
+,{ "url":"http://sbk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.metalloiskateli.su",
+"callback":"qwerty"}
+,{ "url":"http://www.artkazhan.com | http://www.kazhan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.nbdrx.ru",
+"callback":"qwerty"}
+,{ "url":"http://страна-читалия.рф",
+"callback":"qwerty"}
+,{ "url":"http://mgcbs.ru",
+"callback":"qwerty"}
+,{ "url":"http://мгцбс.рф",
+"callback":"qwerty"}
+,{ "url":"http://library.khsu.ru",
+"callback":"qwerty"}
+,{ "url":"http://ust-lib.ru",
+"callback":"qwerty"}
+,{ "url":"http://цбс.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://chernbib.ru/",
+"callback":"qwerty"}
+,{ "url":"http://hrbs19.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernbib.ru",
+"callback":"qwerty"}
+,{ "url":"http://pgisim.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.nhkm.ru",
+"callback":"qwerty"}
+,{ "url":"http://музей-мартьянова.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.sib-svet.ru",
+"callback":"qwerty"}
+,{ "url":"http://lutheran.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.spas.blagochin.ru",
+"callback":"qwerty"}
+,{ "url":"http://hndt.ru",
+"callback":"qwerty"}
+,{ "url":"http://skazka-theatre.ru",
+"callback":"qwerty"}
+,{ "url":"http://mdrama.ru",
+"callback":"qwerty"}
+,{ "url":"http://lermontovtheatre.ru",
+"callback":"qwerty"}
+,{ "url":"http://chitigen.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.philarmonia-rh.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.catholic-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.abakan-eparchy.ru",
+"callback":"qwerty"}
+,{ "url":"http://ioann.cerkov.ru",
+"callback":"qwerty"}
+,{ "url":"http://акг.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://gallery.minusa.ru",
+"callback":"qwerty"}
+,{ "url":"http://minus-lavka-masterov.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.modul19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.tema19.ru",
+"callback":"qwerty"}
+,{ "url":"http://знаика.рф",
+"callback":"qwerty"}
+,{ "url":"http://abakan.express-office.ru/",
+"callback":"qwerty"}
+,{ "url":"http://www.m-komandor.ru | http://www.komandor-mebel.com",
+"callback":"qwerty"}
+,{ "url":"http://www.mebeldeloff.ru | http://mebeldela.ru",
+"callback":"qwerty"}
+,{ "url":"http://stolplit.ru",
+"callback":"qwerty"}
+,{ "url":"http://kmk-mebel.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.12-stuliev.ru",
+"callback":"qwerty"}
+,{ "url":"http://semafor19.ru",
+"callback":"qwerty"}
+,{ "url":"http://garmony-meb.ru",
+"callback":"qwerty"}
+,{ "url":"http://данила-мастер19.рф",
+"callback":"qwerty"}
+,{ "url":"http://шкафкупеабакан.рф | http://черногорск-мебель.рф",
+"callback":"qwerty"}
+,{ "url":"http://mebelatrium.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.гранд19.рф",
+"callback":"qwerty"}
+,{ "url":"http://zakaz-kuhnya-abakan.ru/index.php",
+"callback":"qwerty"}
+,{ "url":"http://abakan.lazurit.com",
+"callback":"qwerty"}
+,{ "url":"http://aliyns-mebel.ru",
+"callback":"qwerty"}
+,{ "url":"http://мебель-авалон.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.мебельсити-абакан.xn--p1ai/ | http://www.мебельсити-абакан.xn--p1ai/",
+"callback":"qwerty"}
+,{ "url":"http://www.dmi.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.dyatkovo.ru",
+"callback":"qwerty"}
+,{ "url":"http://фабрикадиванов19.рф",
+"callback":"qwerty"}
+,{ "url":"http://mebel-unison.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakankamen.ru | http://abakanmebel.ru | http://tsenter-metiz.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kalina.minusin.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.vitra-online.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.angstrem-mebel.ru",
+"callback":"qwerty"}
+,{ "url":"http://meb-lider.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.мебельсити-абакан.xn--p1ai/",
+"callback":"qwerty"}
+,{ "url":"http://vitamebel19.ru",
+"callback":"qwerty"}
+,{ "url":"http://stellmaster.ru | http://mebel.cat",
+"callback":"qwerty"}
+,{ "url":"http://kedrmebel.com | http://kedrmebel19.ru",
+"callback":"qwerty"}
+,{ "url":"http://brw-shop.by | http://anrex.ru",
+"callback":"qwerty"}
+,{ "url":"http://mebel-flagman.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ogogo.ru",
+"callback":"qwerty"}
+,{ "url":"http://mebel.cat | http://stellmaster.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.id-mebel.ru",
+"callback":"qwerty"}
+,{ "url":"http://димон-мебель.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.galereya-dverei.ru",
+"callback":"qwerty"}
+,{ "url":"http://19mk.ru",
+"callback":"qwerty"}
+,{ "url":"http://optimaporte.ru | http://son24.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.bon-sweet.com",
+"callback":"qwerty"}
+,{ "url":"http://www.td-komandor.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.mebel-levsha.ru",
+"callback":"qwerty"}
+,{ "url":"http://kuhni19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.студия-мебели-новация.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.mebelmesto.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.mebbereg.ru",
+"callback":"qwerty"}
+,{ "url":"http://moyki-is-kamnya.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.vivace-krk.ru | http://www.tristone-sibir.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.defo.ru/?utm_source=2gis&utm_medium=2018&utm_campaign=Abakan",
+"callback":"qwerty"}
+,{ "url":"http://многомебели.рф",
+"callback":"qwerty"}
+,{ "url":"http://мзто.рф",
+"callback":"qwerty"}
+,{ "url":"http://кухня-диван19.рф",
+"callback":"qwerty"}
+,{ "url":"http://sdiscount.ru",
+"callback":"qwerty"}
+,{ "url":"http://ormatek.com",
+"callback":"qwerty"}
+,{ "url":"http://классика-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://mebeltut.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.bogacho.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.felix.ru",
+"callback":"qwerty"}
+,{ "url":"http://davitamebel.ru",
+"callback":"qwerty"}
+,{ "url":"http://mebbereg.ru",
+"callback":"qwerty"}
+,{ "url":"http://мпроф19.рф",
+"callback":"qwerty"}
+,{ "url":"http://мпроф19.рф | http://swisshome.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.askona.ru",
+"callback":"qwerty"}
+,{ "url":"http://одеялком.рф",
+"callback":"qwerty"}
+,{ "url":"http://микс19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.viva-mebel.ru",
+"callback":"qwerty"}
+,{ "url":"http://студия-19.рф",
+"callback":"qwerty"}
+,{ "url":"http://mdabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://фартук19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.katusha-mebel.ru",
+"callback":"qwerty"}
+,{ "url":"http://torg-master19.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan-doors.ru",
+"callback":"qwerty"}
+,{ "url":"http://ps24.su",
+"callback":"qwerty"}
+,{ "url":"http://www.hd19.ru",
+"callback":"qwerty"}
+,{ "url":"http://furnitura-lot.ru",
+"callback":"qwerty"}
+,{ "url":"http://tbm.ru",
+"callback":"qwerty"}
+,{ "url":"http://tmf.tomsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kamenmoyka.com",
+"callback":"qwerty"}
+,{ "url":"http://fabfas.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.moon.ru",
+"callback":"qwerty"}
+,{ "url":"http://стулья-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.mebeldeloff.ru | http://metmebel19.ru",
+"callback":"qwerty"}
+,{ "url":"http://надомаркет.рф",
+"callback":"qwerty"}
+,{ "url":"http://karuselmaf.ru",
+"callback":"qwerty"}
+,{ "url":"http://izumrudny-gorod19.ru",
+"callback":"qwerty"}
+,{ "url":"http://tovar19.ru",
+"callback":"qwerty"}
+,{ "url":"http://naturel-club.com",
+"callback":"qwerty"}
+,{ "url":"http://evrosharm.ru",
+"callback":"qwerty"}
+,{ "url":"http://real-thai.ru",
+"callback":"qwerty"}
+,{ "url":"http://katrin-czk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://edelpharm.ru | http://ed.aptekarsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://apteka.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.aptekanobel.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.farmavita19.ru",
+"callback":"qwerty"}
+,{ "url":"http://оидис.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.melzdrav.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.i-tex.ru",
+"callback":"qwerty"}
+,{ "url":"http://elsib.net",
+"callback":"qwerty"}
+,{ "url":"http://electroservis19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.nabat08.ru",
+"callback":"qwerty"}
+,{ "url":"http://rus-magistral.ru",
+"callback":"qwerty"}
+,{ "url":"http://aspektb.ru",
+"callback":"qwerty"}
+,{ "url":"http://ваб-сервис.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.sberbank.ru/ru/legal/bankingservice/inkass",
+"callback":"qwerty"}
+,{ "url":"http://www.rosinkas.ru",
+"callback":"qwerty"}
+,{ "url":"http://bars19.ru",
+"callback":"qwerty"}
+,{ "url":"http://серебряныйшар.орг",
+"callback":"qwerty"}
+,{ "url":"http://retropivo.ru",
+"callback":"qwerty"}
+,{ "url":"http://pyatnica-alko.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ayan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.zavod-alpina.ru",
+"callback":"qwerty"}
+,{ "url":"http://af-k.ru",
+"callback":"qwerty"}
+,{ "url":"http://dasmar.ru",
+"callback":"qwerty"}
+,{ "url":"http://sns.ru",
+"callback":"qwerty"}
+,{ "url":"http://prologtrade.ru",
+"callback":"qwerty"}
+,{ "url":"http://september124.ru/",
+"callback":"qwerty"}
+,{ "url":"http://azpaley.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.yantacom.ru",
+"callback":"qwerty"}
+,{ "url":"http://korma-becks.ru",
+"callback":"qwerty"}
+,{ "url":"http://sites.google.com/site/korma19rus",
+"callback":"qwerty"}
+,{ "url":"http://abakan.sushi-market.com",
+"callback":"qwerty"}
+,{ "url":"http://www.vladelita.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.nskpf.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.zavod-alyoshina.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.timers-krk.ru",
+"callback":"qwerty"}
+,{ "url":"http://фунтик19.рф",
+"callback":"qwerty"}
+,{ "url":"http://мишка19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.сладкоежелание.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.sufle.ru",
+"callback":"qwerty"}
+,{ "url":"http://slastena-tort19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sladkarnitsa.ru",
+"callback":"qwerty"}
+,{ "url":"http://текстураты.рф",
+"callback":"qwerty"}
+,{ "url":"http://лукошкосладостей.рф",
+"callback":"qwerty"}
+,{ "url":"http://карлон.рф",
+"callback":"qwerty"}
+,{ "url":"http://pkkolosok.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.online-podarki.com",
+"callback":"qwerty"}
+,{ "url":"http://пивнойпричал.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.oao-moloko.ru",
+"callback":"qwerty"}
+,{ "url":"http://oao-moloko.ru",
+"callback":"qwerty"}
+,{ "url":"http://slavica.su",
+"callback":"qwerty"}
+,{ "url":"http://rusholod.ru",
+"callback":"qwerty"}
+,{ "url":"http://z-melenka.ru",
+"callback":"qwerty"}
+,{ "url":"http://minkomhleb.ru",
+"callback":"qwerty"}
+,{ "url":"http://pelmeni-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://ooo-vdovol.ru",
+"callback":"qwerty"}
+,{ "url":"http://урожай19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.ydachnye.ru",
+"callback":"qwerty"}
+,{ "url":"http://tuko-tuko.ru",
+"callback":"qwerty"}
+,{ "url":"http://yager-beer.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.lavkapp.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakanskie.ru",
+"callback":"qwerty"}
+,{ "url":"http://cmedkom.ru",
+"callback":"qwerty"}
+,{ "url":"http://eliseyrk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://suhpay.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.icedream.ru",
+"callback":"qwerty"}
+,{ "url":"http://originalvirginia.com",
+"callback":"qwerty"}
+,{ "url":"http://www.geografiavkusa_abakan",
+"callback":"qwerty"}
+,{ "url":"http://drvapor.ru",
+"callback":"qwerty"}
+,{ "url":"http://jam-reklama.ru",
+"callback":"qwerty"}
+,{ "url":"http://reklama-aura.ru",
+"callback":"qwerty"}
+,{ "url":"http://сибрк.рф",
+"callback":"qwerty"}
+,{ "url":"http://artstudio3d.com",
+"callback":"qwerty"}
+,{ "url":"http://ural-press.ru",
+"callback":"qwerty"}
+,{ "url":"http://аромасибирь.рф",
+"callback":"qwerty"}
+,{ "url":"http://dvdguard.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.informagira2.ru",
+"callback":"qwerty"}
+,{ "url":"http://legko19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ir-video.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernogorsk.pro",
+"callback":"qwerty"}
+,{ "url":"http://ветошкин.рф",
+"callback":"qwerty"}
+,{ "url":"http://shans.online",
+"callback":"qwerty"}
+,{ "url":"http://газета-курьер.рф",
+"callback":"qwerty"}
+,{ "url":"http://gazeta19.ru",
+"callback":"qwerty"}
+,{ "url":"http://черногорскийрабочий.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.vtruda.ru",
+"callback":"qwerty"}
+,{ "url":"http://uagazeta.ru",
+"callback":"qwerty"}
+,{ "url":"http://сельскаяправда.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.narodnaya.info",
+"callback":"qwerty"}
+,{ "url":"http://ра-палитра.рф",
+"callback":"qwerty"}
+,{ "url":"http://gorodmasterov19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.azonplus.ru",
+"callback":"qwerty"}
+,{ "url":"http://ci-print.ru | http://ципринт.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.reklama-variant.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.рекламада.рф",
+"callback":"qwerty"}
+,{ "url":"http://r-piramida.ru",
+"callback":"qwerty"}
+,{ "url":"http://1ск.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.19реклама.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.karak.su",
+"callback":"qwerty"}
+,{ "url":"http://biz-brand.ru/abakan | http://rospatent24.ru",
+"callback":"qwerty"}
+,{ "url":"http://grafika-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sib-stroyka.ru | http://stroyka.ru",
+"callback":"qwerty"}
+,{ "url":"http://avtogid19.ru",
+"callback":"qwerty"}
+,{ "url":"http://soroka19.pressa-online.com",
+"callback":"qwerty"}
+,{ "url":"http://svadbaved.ru",
+"callback":"qwerty"}
+,{ "url":"http://рн19.рф",
+"callback":"qwerty"}
+,{ "url":"http://профессионал19.рф",
+"callback":"qwerty"}
+,{ "url":"http://percireklama.ru",
+"callback":"qwerty"}
+,{ "url":"http://эрмитажсервис.рф",
+"callback":"qwerty"}
+,{ "url":"http://печати-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://reklama.khakassia.ru",
+"callback":"qwerty"}
+,{ "url":"http://флаг19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.linia-r.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rt.abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://ra-logos.ru",
+"callback":"qwerty"}
+,{ "url":"http://raduga19.ru",
+"callback":"qwerty"}
+,{ "url":"http://скрепка19.рф",
+"callback":"qwerty"}
+,{ "url":"http://simvolzet.ru",
+"callback":"qwerty"}
+,{ "url":"http://эльбук.рф",
+"callback":"qwerty"}
+,{ "url":"http://xakac.info",
+"callback":"qwerty"}
+,{ "url":"http://master-copy.ru",
+"callback":"qwerty"}
+,{ "url":"http://абн.ярко5.рф | http://ярко5абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://barsaclub.ru",
+"callback":"qwerty"}
+,{ "url":"http://format19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ricv.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.office-planet.ru/globus",
+"callback":"qwerty"}
+,{ "url":"http://abn.pechati5.ru | http://печати19.рф",
+"callback":"qwerty"}
+,{ "url":"http://dlh19.ru/",
+"callback":"qwerty"}
+,{ "url":"http://ch-inform.ru",
+"callback":"qwerty"}
+,{ "url":"http://rusradio-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://dfm-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://comedy-radio.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.retrofm.ru",
+"callback":"qwerty"}
+,{ "url":"http://ctv7.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernogorsk.pro | http://www.radiorecord.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernogorsk.pro | http://www.radiodacha.ru",
+"callback":"qwerty"}
+,{ "url":"http://chernogorsk.pro | http://www.retrofm.ru",
+"callback":"qwerty"}
+,{ "url":"http://mb-reklama.ru",
+"callback":"qwerty"}
+,{ "url":"http://smmabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://25kadr-reklama.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ctv7.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.19rus.ru",
+"callback":"qwerty"}
+,{ "url":"http://nabilete.ru",
+"callback":"qwerty"}
+,{ "url":"http://лайт-медиа.рф",
+"callback":"qwerty"}
+,{ "url":"http://sib-info.ru",
+"callback":"qwerty"}
+,{ "url":"http://iksminusinsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.tnt-online.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.rtrs.ru",
+"callback":"qwerty"}
+,{ "url":"http://vesti-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://tvrts.ru",
+"callback":"qwerty"}
+,{ "url":"http://studio-sun.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.plastic-service.ru | http://www.megaplast.info",
+"callback":"qwerty"}
+,{ "url":"http://эластика.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.parasayan.ru",
+"callback":"qwerty"}
+,{ "url":"http://ergaki.com",
+"callback":"qwerty"}
+,{ "url":"http://меридиан.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://bele.khakassia.ru",
+"callback":"qwerty"}
+,{ "url":"http://kd-dacha.ru",
+"callback":"qwerty"}
+,{ "url":"http://paseka19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sugesh.ru",
+"callback":"qwerty"}
+,{ "url":"http://prestige-tour.ru",
+"callback":"qwerty"}
+,{ "url":"http://serbor24.com",
+"callback":"qwerty"}
+,{ "url":"http://ergaki-sayan.ru",
+"callback":"qwerty"}
+,{ "url":"http://ergaki-oya19.ru",
+"callback":"qwerty"}
+,{ "url":"http://strela-tus.ru",
+"callback":"qwerty"}
+,{ "url":"http://divnaya.ru",
+"callback":"qwerty"}
+,{ "url":"http://хара-суг.рф",
+"callback":"qwerty"}
+,{ "url":"http://tuvaecotour.ru",
+"callback":"qwerty"}
+,{ "url":"http://okolitsa-baza.ru/",
+"callback":"qwerty"}
+,{ "url":"http://www.sk-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://центр-рыбка.рф",
+"callback":"qwerty"}
+,{ "url":"http://aqua-kids.ru",
+"callback":"qwerty"}
+,{ "url":"http://hotellook.ru",
+"callback":"qwerty"}
+,{ "url":"http://trial-sport.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sportmaster.ru",
+"callback":"qwerty"}
+,{ "url":"http://суперспортс.рф",
+"callback":"qwerty"}
+,{ "url":"http://sport-ride.ru",
+"callback":"qwerty"}
+,{ "url":"http://svk-borus.ru",
+"callback":"qwerty"}
+,{ "url":"http://lodki-sibiri.ru",
+"callback":"qwerty"}
+,{ "url":"http://globalmarine.ru",
+"callback":"qwerty"}
+,{ "url":"http://druzba19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.abakan-hotel.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.hotel-khakasia.ru",
+"callback":"qwerty"}
+,{ "url":"http://asia-hotel.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.hotelsiberia.ru",
+"callback":"qwerty"}
+,{ "url":"http://hotel-sever.com",
+"callback":"qwerty"}
+,{ "url":"http://persona-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://hotel-minusinsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://hotelvegas.ru",
+"callback":"qwerty"}
+,{ "url":"http://hotelamil.ru",
+"callback":"qwerty"}
+,{ "url":"http://antareshotel.ru",
+"callback":"qwerty"}
+,{ "url":"http://забота-минусинск.рф",
+"callback":"qwerty"}
+,{ "url":"http://уездный-двор.рф",
+"callback":"qwerty"}
+,{ "url":"http://iris-minihotel.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.lager-berkut.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.topcourts.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ksil.com",
+"callback":"qwerty"}
+,{ "url":"http://deluxe.abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://абакансуточно19.рф",
+"callback":"qwerty"}
+,{ "url":"http://посуточно19.рф",
+"callback":"qwerty"}
+,{ "url":"http://дом19.рф",
+"callback":"qwerty"}
+,{ "url":"http://alliance-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan-sutki.com",
+"callback":"qwerty"}
+,{ "url":"http://эдем-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://квартиры-посуточно-в-абакане.рф",
+"callback":"qwerty"}
+,{ "url":"http://union-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://мирквартир19.рф",
+"callback":"qwerty"}
+,{ "url":"http://raketa213.wixsite.com/mysite?yclid=827821664977818",
+"callback":"qwerty"}
+,{ "url":"http://www.abakansutki.ru",
+"callback":"qwerty"}
+,{ "url":"http://hata19.ru",
+"callback":"qwerty"}
+,{ "url":"http://минусинск-посуточно.рф",
+"callback":"qwerty"}
+,{ "url":"http://посуточно-19.рф",
+"callback":"qwerty"}
+,{ "url":"http://подкова19.рф",
+"callback":"qwerty"}
+,{ "url":"http://ippo19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sm.kristel.ru",
+"callback":"qwerty"}
+,{ "url":"http://tstlaim.ru",
+"callback":"qwerty"}
+,{ "url":"http://19pole-dance.nethouse.ru",
+"callback":"qwerty"}
+,{ "url":"http://дети-на-паркете.xn--p1ai/",
+"callback":"qwerty"}
+,{ "url":"http://csp19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://1913817.wix.com/veloremont19",
+"callback":"qwerty"}
+,{ "url":"http://kazarka.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.petrovit.ru",
+"callback":"qwerty"}
+,{ "url":"http://adidas.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.reebok.ru",
+"callback":"qwerty"}
+,{ "url":"http://геркулес19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.sportmax-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://b-sculpt.ru",
+"callback":"qwerty"}
+,{ "url":"http://samurai-abakan.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://будокекусин.рф",
+"callback":"qwerty"}
+,{ "url":"http://kdussh-ckg.ru",
+"callback":"qwerty"}
+,{ "url":"http://ирбис-хакасия.рф",
+"callback":"qwerty"}
+,{ "url":"http://сдюшор-теннис.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://horse19.ru",
+"callback":"qwerty"}
+,{ "url":"http://mindush1.bget.ru",
+"callback":"qwerty"}
+,{ "url":"http://дюсш-единоборств.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://dusshrh.ru",
+"callback":"qwerty"}
+,{ "url":"http://сдюшор-ла.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://дюш-танцы.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://mdregion.ru",
+"callback":"qwerty"}
+,{ "url":"http://hk-himik.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.diskus.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kuznicza.ru",
+"callback":"qwerty"}
+,{ "url":"http://visaservice24.ru | http://визатурсервис24.рф",
+"callback":"qwerty"}
+,{ "url":"http://moihottur.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.pgs19.ru",
+"callback":"qwerty"}
+,{ "url":"http://rivclub.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.bankturov.ru",
+"callback":"qwerty"}
+,{ "url":"http://pegast.ru | http://pegast-abakan.ru | http://pegas19.ru",
+"callback":"qwerty"}
+,{ "url":"http://coral.ru",
+"callback":"qwerty"}
+,{ "url":"http://butiktour19.ru",
+"callback":"qwerty"}
+,{ "url":"http://pegast.ru",
+"callback":"qwerty"}
+,{ "url":"http://voyagtyr-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sibkur.ru",
+"callback":"qwerty"}
+,{ "url":"http://33turista.ru",
+"callback":"qwerty"}
+,{ "url":"http://well.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.1001tur.ru",
+"callback":"qwerty"}
+,{ "url":"http://ross-tur.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.planetatour19.ru",
+"callback":"qwerty"}
+,{ "url":"http://pegast.ru | http://pegast-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://solar-tour19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sunsib.ru",
+"callback":"qwerty"}
+,{ "url":"http://sofia-tour.info",
+"callback":"qwerty"}
+,{ "url":"http://www.geograftur.ru",
+"callback":"qwerty"}
+,{ "url":"http://magazinturov.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.turdelor.com",
+"callback":"qwerty"}
+,{ "url":"http://gorilla-fit.ru",
+"callback":"qwerty"}
+,{ "url":"http://fit-l-body.ru/",
+"callback":"qwerty"}
+,{ "url":"http://www.abakan-hostel.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan-hostel.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.hoermann.ru | http://www.germes-krsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://теплоокна.рф | http://потолок-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://ap19.ru",
+"callback":"qwerty"}
+,{ "url":"http://vvd24.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.vorotanew.ru",
+"callback":"qwerty"}
+,{ "url":"http://domostroy-m.ru | http://doorhan-m.ru",
+"callback":"qwerty"}
+,{ "url":"http://mk-stroy24.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.hoermann.ru | http://www.грантсервис.рф",
+"callback":"qwerty"}
+,{ "url":"http://грантсервис.рф",
+"callback":"qwerty"}
+,{ "url":"http://mps19.ru",
+"callback":"qwerty"}
+,{ "url":"http://100vorot.com",
+"callback":"qwerty"}
+,{ "url":"http://dverimp.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.raskov19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ekokonsalt.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.gos-expert19.ru",
+"callback":"qwerty"}
+,{ "url":"http://экопроект19.рф",
+"callback":"qwerty"}
+,{ "url":"http://bt-consulting.ru",
+"callback":"qwerty"}
+,{ "url":"http://madvokat.nichost.ru",
+"callback":"qwerty"}
+,{ "url":"http://test.invest.r-19.ru/contacts/42",
+"callback":"qwerty"}
+,{ "url":"http://www.nadins.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rgs.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sogaz.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ingos-m.ru",
+"callback":"qwerty"}
+,{ "url":"http://osago19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.soglasie.ru",
+"callback":"qwerty"}
+,{ "url":"http://ad.admitad.com/g/gd9migpteqfb9df7f79068c8c3a654",
+"callback":"qwerty"}
+,{ "url":"http://mvostok.ru",
+"callback":"qwerty"}
+,{ "url":"http://vtbms.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.reso.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.skgelios.ru",
+"callback":"qwerty"}
+,{ "url":"http://alfastrah.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sibspas.ru",
+"callback":"qwerty"}
+,{ "url":"http://vsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.contact-sys.com",
+"callback":"qwerty"}
+,{ "url":"http://www.westernunion.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.perevod-korona.com",
+"callback":"qwerty"}
+,{ "url":"http://abakan.24souz.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.khcs.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.srokhakasia.ru",
+"callback":"qwerty"}
+,{ "url":"http://юристы-абакана.рф",
+"callback":"qwerty"}
+,{ "url":"http://ru.damssudu.info",
+"callback":"qwerty"}
+,{ "url":"http://прямаяипотека.рф",
+"callback":"qwerty"}
+,{ "url":"http://abakanipoteka.ru",
+"callback":"qwerty"}
+,{ "url":"http://stopkredit.com",
+"callback":"qwerty"}
+,{ "url":"http://ocenka19.com",
+"callback":"qwerty"}
+,{ "url":"http://energoaudit-hakasia.ru | http://энергоаудит-абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://delkvartall.ru",
+"callback":"qwerty"}
+,{ "url":"http://visa-prosto.com/abakan/",
+"callback":"qwerty"}
+,{ "url":"http://www.tender19.ru",
+"callback":"qwerty"}
+,{ "url":"http://tenderdom.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.open-broker.ru",
+"callback":"qwerty"}
+,{ "url":"http://teletrade.ru | http://canterbury-cc.ru",
+"callback":"qwerty"}
+,{ "url":"http://notariuspetrova.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.futurenpf.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ros-dengi.ru",
+"callback":"qwerty"}
+,{ "url":"http://otlnal.ru",
+"callback":"qwerty"}
+,{ "url":"http://centrofinans.ru/?utm_source=abakan&utm_medium=banner&utm_campaign=2gis",
+"callback":"qwerty"}
+,{ "url":"http://финтерра.рф",
+"callback":"qwerty"}
+,{ "url":"http://fastmoney.ru",
+"callback":"qwerty"}
+,{ "url":"http://xka.su",
+"callback":"qwerty"}
+,{ "url":"http://kompaskreditov.ru/go/54",
+"callback":"qwerty"}
+,{ "url":"http://добро-деньги.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.centrzaymov19.ru",
+"callback":"qwerty"}
+,{ "url":"http://dobrozaym.ru",
+"callback":"qwerty"}
+,{ "url":"http://kompaskreditov.ru/go/89",
+"callback":"qwerty"}
+,{ "url":"http://dengiryadom.org",
+"callback":"qwerty"}
+,{ "url":"http://mikrob24.ru",
+"callback":"qwerty"}
+,{ "url":"http://nalzaim.ru",
+"callback":"qwerty"}
+,{ "url":"http://kompaskreditov.ru/go/160",
+"callback":"qwerty"}
+,{ "url":"http://mfo-dvr.ru",
+"callback":"qwerty"}
+,{ "url":"http://colibridengi.ru",
+"callback":"qwerty"}
+,{ "url":"http://zaiminvestrh.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.krk-finance.ru/?utm_source=2GisAbakan",
+"callback":"qwerty"}
+,{ "url":"http://pvsfms24.ru | http://pvsmvd24.ru",
+"callback":"qwerty"}
+,{ "url":"http://pvsmvd24.ru",
+"callback":"qwerty"}
+,{ "url":"http://ювелирмир.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.585.su",
+"callback":"qwerty"}
+,{ "url":"http://lombard-baks.ru",
+"callback":"qwerty"}
+,{ "url":"http://lombardunion.ru",
+"callback":"qwerty"}
+,{ "url":"http://золотаяцепь.рф",
+"callback":"qwerty"}
+,{ "url":"http://olimp-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://tiara.ds19.ru",
+"callback":"qwerty"}
+,{ "url":"http://займ-финанс.рф",
+"callback":"qwerty"}
+,{ "url":"http://старый-ломбард.рф",
+"callback":"qwerty"}
+,{ "url":"http://sunlight.net",
+"callback":"qwerty"}
+,{ "url":"http://www.europlan.ru",
+"callback":"qwerty"}
+,{ "url":"http://leasing.abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://deltaf.ru | http://www.lkdelta.ru",
+"callback":"qwerty"}
+,{ "url":"http://veb-leasing.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ипотека19.рф",
+"callback":"qwerty"}
+,{ "url":"http://sangilen-agro.ru",
+"callback":"qwerty"}
+,{ "url":"http://kpkksk.ru",
+"callback":"qwerty"}
+,{ "url":"http://krascks.ru",
+"callback":"qwerty"}
+,{ "url":"http://energofinans.ru",
+"callback":"qwerty"}
+,{ "url":"http://kpkreshenie.jimdo.com",
+"callback":"qwerty"}
+,{ "url":"http://содействиеплюс.рф",
+"callback":"qwerty"}
+,{ "url":"http://даёмзаём.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.kpk-sovet.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.collector.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.gstamp.ru",
+"callback":"qwerty"}
+,{ "url":"http://ар-печати.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.alliancetech.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.агида.рф",
+"callback":"qwerty"}
+,{ "url":"http://lisunenko.pravorub.ru",
+"callback":"qwerty"}
+,{ "url":"http://юриствабакане.рф",
+"callback":"qwerty"}
+,{ "url":"http://pravovoyzentr.abakn.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan-jur-status.ru",
+"callback":"qwerty"}
+,{ "url":"http://jus-legas.ru",
+"callback":"qwerty"}
+,{ "url":"http://chistiylist.com",
+"callback":"qwerty"}
+,{ "url":"http://advokat-levinson.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.vchk.su",
+"callback":"qwerty"}
+,{ "url":"http://lex19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.iva19.com",
+"callback":"qwerty"}
+,{ "url":"http://maximum19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.advrh.ru",
+"callback":"qwerty"}
+,{ "url":"http://юристы19.рф",
+"callback":"qwerty"}
+,{ "url":"http://mka-spb.ru",
+"callback":"qwerty"}
+,{ "url":"http://uristhakasia.wixsite.com/referent",
+"callback":"qwerty"}
+,{ "url":"http://регионресурс-19.рф",
+"callback":"qwerty"}
+,{ "url":"http://ratair.ru",
+"callback":"qwerty"}
+,{ "url":"http://центрправовыхуслуг.рф",
+"callback":"qwerty"}
+,{ "url":"http://налоговыйсервис.рф",
+"callback":"qwerty"}
+,{ "url":"http://buhnalog19.ru",
+"callback":"qwerty"}
+,{ "url":"http://мфрп.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://ksnbp.ru",
+"callback":"qwerty"}
+,{ "url":"http://cbo19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kbhmb.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sberbank.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sovcombank.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.pochtabank.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.atb.su/?utm_source=2gis&utm_medium=special&utm_content=2gis_link&utm_campaign=2gis_link",
+"callback":"qwerty"}
+,{ "url":"http://vostbank.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.rshb.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kbca.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.binbank.ru",
+"callback":"qwerty"}
+,{ "url":"http://psbank.ru",
+"callback":"qwerty"}
+,{ "url":"http://rosbank.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.alfacards.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.united.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.taatta.ru",
+"callback":"qwerty"}
+,{ "url":"http://skbbank.ru",
+"callback":"qwerty"}
+,{ "url":"http://dvbank.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.cetelem.ru",
+"callback":"qwerty"}
+,{ "url":"http://ad.admitad.com/g/47rub4kekvfb9df7f7905f4e53bb1306b4649ae1",
+"callback":"qwerty"}
+,{ "url":"http://rusfinancebank.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.otpbank.ru",
+"callback":"qwerty"}
+,{ "url":"http://homecredit.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.gazprombank.ru",
+"callback":"qwerty"}
+,{ "url":"http://vtb24.ru",
+"callback":"qwerty"}
+,{ "url":"http://avangard19.ru",
+"callback":"qwerty"}
+,{ "url":"http://buh-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://impuls-19.RU",
+"callback":"qwerty"}
+,{ "url":"http://гарантия-аудит.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.electrocomplex.ru",
+"callback":"qwerty"}
+,{ "url":"http://svetilnik19.ru",
+"callback":"qwerty"}
+,{ "url":"http://fandeco.ru/",
+"callback":"qwerty"}
+,{ "url":"http://electroset19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.optika19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ic-com.ucoz.ru",
+"callback":"qwerty"}
+,{ "url":"http://energia19.ru",
+"callback":"qwerty"}
+,{ "url":"http://diodtrade.ru/",
+"callback":"qwerty"}
+,{ "url":"http://www.russvet.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.energosnab-s.ru",
+"callback":"qwerty"}
+,{ "url":"http://alfavit.biz",
+"callback":"qwerty"}
+,{ "url":"http://orgzemledelie.ru",
+"callback":"qwerty"}
+,{ "url":"http://minoph.narod.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sibsemena.ru",
+"callback":"qwerty"}
+,{ "url":"http://семена-минусинск.рф",
+"callback":"qwerty"}
+,{ "url":"http://semena19.ru",
+"callback":"qwerty"}
+,{ "url":"http://tescoma-shop.ru",
+"callback":"qwerty"}
+,{ "url":"http://gipfel24.ru",
+"callback":"qwerty"}
+,{ "url":"http://tupperware.ru",
+"callback":"qwerty"}
+,{ "url":"http://minmash.minusin.ru",
+"callback":"qwerty"}
+,{ "url":"http://зион24.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.finsib.com",
+"callback":"qwerty"}
+,{ "url":"http://bikr.ru/org/luneva",
+"callback":"qwerty"}
+,{ "url":"http://ценник-м.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.atlas19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.labirint.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.ermak-k.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.chitai-gorod.ru",
+"callback":"qwerty"}
+,{ "url":"http://енисейтара.рф",
+"callback":"qwerty"}
+,{ "url":"http://bummile.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.evropak19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.aeroflot.ru",
+"callback":"qwerty"}
+,{ "url":"http://uvelirmir.ru",
+"callback":"qwerty"}
+,{ "url":"http://ювелирпорывай.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.gold585.ru",
+"callback":"qwerty"}
+,{ "url":"http://liniilubvi.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.krasalmaz.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sibtime.ru",
+"callback":"qwerty"}
+,{ "url":"http://цветы19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.24kd.ru",
+"callback":"qwerty"}
+,{ "url":"http://премьер-тд.рф",
+"callback":"qwerty"}
+,{ "url":"http://WWW.енисей-тк.рф",
+"callback":"qwerty"}
+,{ "url":"http://europa-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.Orange-elephant.ru",
+"callback":"qwerty"}
+,{ "url":"http://kladovayamasterov.ru",
+"callback":"qwerty"}
+,{ "url":"http://milovar.7910.org",
+"callback":"qwerty"}
+,{ "url":"http://prosvet.bz",
+"callback":"qwerty"}
+,{ "url":"http://www.abakanplast.ru",
+"callback":"qwerty"}
+,{ "url":"http://samogon19.ru",
+"callback":"qwerty"}
+,{ "url":"http://sm-komandor.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.krasyar.ru",
+"callback":"qwerty"}
+,{ "url":"http://retail.oaovoentorg.ru",
+"callback":"qwerty"}
+,{ "url":"http://symbol-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://podarok57.ru",
+"callback":"qwerty"}
+,{ "url":"http://сибтайга.рф",
+"callback":"qwerty"}
+,{ "url":"http://redcube.ru",
+"callback":"qwerty"}
+,{ "url":"http://almazbis.ru",
+"callback":"qwerty"}
+,{ "url":"http://auto-club.biz",
+"callback":"qwerty"}
+,{ "url":"http://www.biglion.ru",
+"callback":"qwerty"}
+,{ "url":"http://d-roza.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.flor2u.ru",
+"callback":"qwerty"}
+,{ "url":"http://buket-m24.ru",
+"callback":"qwerty"}
+,{ "url":"http://flowers-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://magnit-info.ru",
+"callback":"qwerty"}
+,{ "url":"http://vetabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://хвост-маркет.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.farmmed.ru",
+"callback":"qwerty"}
+,{ "url":"http://dv19.ru",
+"callback":"qwerty"}
+,{ "url":"http://krasapteka.com",
+"callback":"qwerty"}
+,{ "url":"http://4shvostikom.business.site/",
+"callback":"qwerty"}
+,{ "url":"http://первый-аквариумный-завод.рф",
+"callback":"qwerty"}
+,{ "url":"http://aquavita19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sv19dom.abakn.ru",
+"callback":"qwerty"}
+,{ "url":"http://furnitura2005.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.krujevohome.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.togas.com/ru",
+"callback":"qwerty"}
+,{ "url":"http://sogdiana19.ru | http://sogdiana19.ru/",
+"callback":"qwerty"}
+,{ "url":"http://www.texrepublic.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.dilen-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://podkovka19.ru",
+"callback":"qwerty"}
+,{ "url":"http://флора-фауна19.рф",
+"callback":"qwerty"}
+,{ "url":"http://nadegda-shtori.ru",
+"callback":"qwerty"}
+,{ "url":"http://ab-karnizy.ru",
+"callback":"qwerty"}
+,{ "url":"http://madam-shtorkina.ru",
+"callback":"qwerty"}
+,{ "url":"http://arkomelektro.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.eco19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.teohim-siberia.ru",
+"callback":"qwerty"}
+,{ "url":"http://ванна19.рф",
+"callback":"qwerty"}
+,{ "url":"http://studiokna.ru",
+"callback":"qwerty"}
+,{ "url":"http://окна119.рф",
+"callback":"qwerty"}
+,{ "url":"http://f-energii.ru",
+"callback":"qwerty"}
+,{ "url":"http://кипр19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.aquaphor.ru",
+"callback":"qwerty"}
+,{ "url":"http://цмит24.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.krastoilet.ru",
+"callback":"qwerty"}
+,{ "url":"http://bugaeva.com",
+"callback":"qwerty"}
+,{ "url":"http://art-buro.net",
+"callback":"qwerty"}
+,{ "url":"http://www.talant8.ru",
+"callback":"qwerty"}
+,{ "url":"http://gloris-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://akp-po.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.brokerplus.ru",
+"callback":"qwerty"}
+,{ "url":"http://kovchegmin.com",
+"callback":"qwerty"}
+,{ "url":"http://www.aprospect.ru",
+"callback":"qwerty"}
+,{ "url":"http://adres-24.ru",
+"callback":"qwerty"}
+,{ "url":"http://риэлтор19.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.19rc24.ru",
+"callback":"qwerty"}
+,{ "url":"http://dominusinsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://kv19.ru",
+"callback":"qwerty"}
+,{ "url":"http://han19.ru",
+"callback":"qwerty"}
+,{ "url":"http://аренда19.xn--p1ai/",
+"callback":"qwerty"}
+,{ "url":"http://www.sib-info.ru/content/5599/ooo-respublika/o-kompanii.html",
+"callback":"qwerty"}
+,{ "url":"http://19globus.ru",
+"callback":"qwerty"}
+,{ "url":"http://sto-kv.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.etagi.com",
+"callback":"qwerty"}
+,{ "url":"http://bestwaycoop.com",
+"callback":"qwerty"}
+,{ "url":"http://Abakanmix.com",
+"callback":"qwerty"}
+,{ "url":"http://теплостен-хакасия.рф",
+"callback":"qwerty"}
+,{ "url":"http://стенблок.рф",
+"callback":"qwerty"}
+,{ "url":"http://artstep-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://kedrabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://arttek.org",
+"callback":"qwerty"}
+,{ "url":"http://www.bfk.ru",
+"callback":"qwerty"}
+,{ "url":"http://stolyarych.ru",
+"callback":"qwerty"}
+,{ "url":"http://минусинские-окна.рф",
+"callback":"qwerty"}
+,{ "url":"http://arttek.org | http://arttek.org",
+"callback":"qwerty"}
+,{ "url":"http://www.naveka.pro",
+"callback":"qwerty"}
+,{ "url":"http://kamin.ru",
+"callback":"qwerty"}
+,{ "url":"http://kamen19.ru",
+"callback":"qwerty"}
+,{ "url":"http://люксора.рф",
+"callback":"qwerty"}
+,{ "url":"http://dekor-studio19.ru",
+"callback":"qwerty"}
+,{ "url":"http://krasmaster.net",
+"callback":"qwerty"}
+,{ "url":"http://потолковая.рф",
+"callback":"qwerty"}
+,{ "url":"http://deluxe-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://potolokstroi.su",
+"callback":"qwerty"}
+,{ "url":"http://www.potolokservis-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://artdecor.naenisee.ru",
+"callback":"qwerty"}
+,{ "url":"http://potolok19.ru",
+"callback":"qwerty"}
+,{ "url":"http://potolki.stroyka.ru",
+"callback":"qwerty"}
+,{ "url":"http://alumilpro.com",
+"callback":"qwerty"}
+,{ "url":"http://svetodom.ru | http://deartfloor.ru",
+"callback":"qwerty"}
+,{ "url":"http://lesenka-24.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.profildoors.ru",
+"callback":"qwerty"}
+,{ "url":"http://сывел.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.veka.ru/?utm_source=2gis&utm_campaign=Russia_2017&utm_medium=abakan&utm_content=link3",
+"callback":"qwerty"}
+,{ "url":"http://пластик19.рф",
+"callback":"qwerty"}
+,{ "url":"http://oknakhakasiya.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.modernwin.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sibglass-trade.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sibglass-pro.ru",
+"callback":"qwerty"}
+,{ "url":"http://plafen.ru",
+"callback":"qwerty"}
+,{ "url":"http://deco19.ru",
+"callback":"qwerty"}
+,{ "url":"http://tdelisey.ru",
+"callback":"qwerty"}
+,{ "url":"http://groshev-design.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.karlito-masterini.com",
+"callback":"qwerty"}
+,{ "url":"http://www.t-color.ru",
+"callback":"qwerty"}
+,{ "url":"http://овалтун.рф | http://kerama-marazzi.com",
+"callback":"qwerty"}
+,{ "url":"http://www.color-studio.ru",
+"callback":"qwerty"}
+,{ "url":"http://хозмаркет19.рф",
+"callback":"qwerty"}
+,{ "url":"http://imperator19.ru",
+"callback":"qwerty"}
+,{ "url":"http://абакан.фабрикадверей.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.plastservis.ru",
+"callback":"qwerty"}
+,{ "url":"http://olovi.ru | http://okeandveri.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kalina19.ru",
+"callback":"qwerty"}
+,{ "url":"http://ligrand.ru",
+"callback":"qwerty"}
+,{ "url":"http://наполка19.рф",
+"callback":"qwerty"}
+,{ "url":"http://remsecret.ru",
+"callback":"qwerty"}
+,{ "url":"http://vsedlyabany19.ru/",
+"callback":"qwerty"}
+,{ "url":"http://dv-arsenal.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan-doors.ru/catalog/vhodnyie_dveri/toreks",
+"callback":"qwerty"}
+,{ "url":"http://park-hous.ru",
+"callback":"qwerty"}
+,{ "url":"http://premium19.ru",
+"callback":"qwerty"}
+,{ "url":"http://dverka19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.doors19.ru",
+"callback":"qwerty"}
+,{ "url":"http://alumilpro.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.hoermann.ru",
+"callback":"qwerty"}
+,{ "url":"http://germes-krsk.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.dveriabakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.nlstar.com",
+"callback":"qwerty"}
+,{ "url":"http://www.sibvaleo.com",
+"callback":"qwerty"}
+,{ "url":"http://argo.pro",
+"callback":"qwerty"}
+,{ "url":"http://amway.ru",
+"callback":"qwerty"}
+,{ "url":"http://alivemax.com",
+"callback":"qwerty"}
+,{ "url":"http://liwest.ru",
+"callback":"qwerty"}
+,{ "url":"http://центр-регион.рф",
+"callback":"qwerty"}
+,{ "url":"http://protek.ru",
+"callback":"qwerty"}
+,{ "url":"http://4lifefactor.ru | http://4life.com/5403163",
+"callback":"qwerty"}
+,{ "url":"http://vertera.org",
+"callback":"qwerty"}
+,{ "url":"http://resbol.mz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://adgb.net",
+"callback":"qwerty"}
+,{ "url":"http://abakanbol.mz19.ru/org",
+"callback":"qwerty"}
+,{ "url":"http://belcrb.mz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://mserh.ru",
+"callback":"qwerty"}
+,{ "url":"http://mgp.minusinsk.info",
+"callback":"qwerty"}
+,{ "url":"http://три-пингвина.рф",
+"callback":"qwerty"}
+,{ "url":"http://uzi-pan.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.onlineclinic.su",
+"callback":"qwerty"}
+,{ "url":"http://dr-kvyadaras.ru",
+"callback":"qwerty"}
+,{ "url":"http://дцабакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.invitro.ru",
+"callback":"qwerty"}
+,{ "url":"http://medikom-19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.dnk19.ru",
+"callback":"qwerty"}
+,{ "url":"http://mcm24.ru",
+"callback":"qwerty"}
+,{ "url":"http://мц-допплер.рф",
+"callback":"qwerty"}
+,{ "url":"http://zdorwomen.ru",
+"callback":"qwerty"}
+,{ "url":"http://medis19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.uzi19.ru",
+"callback":"qwerty"}
+,{ "url":"http://unona-abakan.ru",
+"callback":"qwerty"}
+,{ "url":"http://исида.com",
+"callback":"qwerty"}
+,{ "url":"http://красмедцентр.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.abakan.bkmedica.ru",
+"callback":"qwerty"}
+,{ "url":"http://sz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://медлайн24.рф",
+"callback":"qwerty"}
+,{ "url":"http://novomed24.ru",
+"callback":"qwerty"}
+,{ "url":"http://effect-rx.ru",
+"callback":"qwerty"}
+,{ "url":"http://farmasib.ru",
+"callback":"qwerty"}
+,{ "url":"http://helix.ru",
+"callback":"qwerty"}
+,{ "url":"http://kvd.mz19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.kraspsixo.ru",
+"callback":"qwerty"}
+,{ "url":"http://aspirin.club",
+"callback":"qwerty"}
+,{ "url":"http://letoile.ru",
+"callback":"qwerty"}
+,{ "url":"http://khakaskosmetika.ru",
+"callback":"qwerty"}
+,{ "url":"http://студия-эстель.абакан.рф",
+"callback":"qwerty"}
+,{ "url":"http://wildberries.ru",
+"callback":"qwerty"}
+,{ "url":"http://профкаприз.рф",
+"callback":"qwerty"}
+,{ "url":"http://www.yves-rocher.ru",
+"callback":"qwerty"}
+,{ "url":"http://prokrasota.ru | http://www.profi-center.ru",
+"callback":"qwerty"}
+,{ "url":"http://pampersok.ru",
+"callback":"qwerty"}
+,{ "url":"http://freshline24.ru",
+"callback":"qwerty"}
+,{ "url":"http://sexshop19.ru",
+"callback":"qwerty"}
+,{ "url":"http://bytxim.ru",
+"callback":"qwerty"}
+,{ "url":"http://don-feromon.ru | http://sexshop19.ru",
+"callback":"qwerty"}
+,{ "url":"http://faberlic.com/register?sponsor=322770&lang=ru | http://faberlic.com/register?sponsor=323918&lang=ru",
+"callback":"qwerty"}
+,{ "url":"http://www.novzarya.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.sang.ru",
+"callback":"qwerty"}
+,{ "url":"http://abakan.meitan.ru",
+"callback":"qwerty"}
+,{ "url":"http://oriflame.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.avon.ru",
+"callback":"qwerty"}
+,{ "url":"http://22976.shop.faberlic.com",
+"callback":"qwerty"}
+,{ "url":"http://faberlic.com",
+"callback":"qwerty"}
+,{ "url":"http://ecoberezka.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.styx-naturcosmetic.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.marykay.ru/yulia.popova",
+"callback":"qwerty"}
+,{ "url":"http://701081814.shop.faberlic.com",
+"callback":"qwerty"}
+,{ "url":"http://www.marykay.ru/Julia.parasuk",
+"callback":"qwerty"}
+,{ "url":"http://mirraclub.com",
+"callback":"qwerty"}
+,{ "url":"http://skmlm.ru/?i=40515",
+"callback":"qwerty"}
+,{ "url":"http://drnona.com",
+"callback":"qwerty"}
+,{ "url":"http://www.marykay.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.foreverliving.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.estetika19.ru",
+"callback":"qwerty"}
+,{ "url":"http://aellada19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.мир-ногтей.рф",
+"callback":"qwerty"}
+,{ "url":"http://красота19.рф",
+"callback":"qwerty"}
+,{ "url":"http://abakanprof.ru",
+"callback":"qwerty"}
+,{ "url":"http://nogti19.ru",
+"callback":"qwerty"}
+,{ "url":"http://fizio-med.ru",
+"callback":"qwerty"}
+,{ "url":"http://audionika.ru",
+"callback":"qwerty"}
+,{ "url":"http://medinstal.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.dekomed.ru",
+"callback":"qwerty"}
+,{ "url":"http://citilab.ru",
+"callback":"qwerty"}
+,{ "url":"http://predreismo.ru",
+"callback":"qwerty"}
+,{ "url":"http://medtech19.ru",
+"callback":"qwerty"}
+,{ "url":"http://diapom.tiu.ru",
+"callback":"qwerty"}
+,{ "url":"http://здоровая-хакасия.рф",
+"callback":"qwerty"}
+,{ "url":"http://medsintes.ru",
+"callback":"qwerty"}
+,{ "url":"http://karpov19.ru",
+"callback":"qwerty"}
+,{ "url":"http://era-krasota.ru",
+"callback":"qwerty"}
+,{ "url":"http://salon-lotus.ru",
+"callback":"qwerty"}
+,{ "url":"http://7sky-studio.ru",
+"callback":"qwerty"}
+,{ "url":"http://territoriya-uspeha.ru",
+"callback":"qwerty"}
+,{ "url":"http://colorist19.ru",
+"callback":"qwerty"}
+,{ "url":"http://www.komilfo-abakan.com",
+"callback":"qwerty"}
+,{ "url":"http://nail.naturel-club.com",
+"callback":"qwerty"}
+,{ "url":"http://n72180.yclients.com",
+"callback":"qwerty"}
+,{ "url":"http://www.mirraclub.com",
+"callback":"qwerty"}
+,{ "url":"http://bstyle19.ru",
+"callback":"qwerty"}
+,{ "url":"http://galaprestig.ru",
+"callback":"qwerty"}
+,{ "url":"http://vosmoezhelanie.ru",
+"callback":"qwerty"}
+,{ "url":"http://24koroleva.ru",
+"callback":"qwerty"}
+]
